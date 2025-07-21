@@ -1,0 +1,24 @@
+mesh_id,name
+C01,Infections
+C04,Neoplasms
+C05,Musculoskeletal Diseases
+C06,Digestive System Diseases
+C07,Stomatognathic Diseases
+C08,Respiratory Tract Diseases
+C09,Otorhinolaryngologic Diseases
+C10,Nervous System Diseases
+C11,Eye Diseases
+C12,Urogenital Diseases
+C14,Cardiovascular Diseases
+C15,Hemic and Lymphatic Diseases
+C16,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+C17,Skin and Connective Tissue Diseases
+C18,Nutritional and Metabolic Diseases
+C19,Endocrine System Diseases
+C20,Immune System Diseases
+C21,Disorders of Environmental Origin
+C22,Animal Diseases
+C23,"Pathological Conditions, Signs and Symptoms"
+C24,Occupational Diseases
+C25,Chemically-Induced Disorders
+C26,Wounds and Injuries

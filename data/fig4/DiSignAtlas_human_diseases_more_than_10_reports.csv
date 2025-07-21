@@ -1,0 +1,69 @@
+disease,count,mesh_id,top1_disease,top2_disease,top3_disease,top4_disease,top5_disease,top1_mesh,top2_mesh,top3_mesh,top4_mesh,top5_mesh
+Influenza,102,D007251,"Influenza, Human",Influenza in Birds,Vaccinia,Infectious Mononucleosis,Respiratory Syncytial Virus Infections,D007251,D005585,D014615,D007244,D018357
+COVID-19,99,D000094024,Post-Acute COVID-19 Syndrome,Trisomy 18 Syndrome,"Conjunctivitis, Inclusion",Rabies,Vaccinia,D000094024,D000073842,D003235,D011818,D014615
+Systemic Lupus Erythematosus,86,D008181,"Panniculitis, Lupus Erythematosus",Sclerosis,Lupus Nephritis,Lupus Vulgaris,"Scleroderma, Diffuse",D015435,D012598,D008181,D008177,D045743
+Crohn's Disease,76,D003424,Crohn Disease,Celiac Disease,"Diverticulitis, Colonic","Colitis, Lymphocytic","Colitis, Collagenous",D003424,D002446,D004239,D046730,D046729
+Asthma,72,D059366,"Asthma, Occupational","Asthma, Exercise-Induced","Asthma, Aspirin-Induced",Status Asthmaticus,Anaphylaxis,D059366,D001250,D055963,D013224,D000707
+Ulcerative Colitis,72,D003093,"Colitis, Ulcerative","Colitis, Ischemic","Colitis, Collagenous","Colitis, Lymphocytic",Colitis-Associated Neoplasms,D003093,D017091,D046729,D046730,D000083023
+Hepatocellular Carcinoma,68,D006528,"Carcinoma, Hepatocellular",Hepatoblastoma,Nasopharyngeal Carcinoma,Adrenocortical Carcinoma,"Carcinoma, Lobular",D006528,D018197,D000077274,D018268,D018275
+Alzheimer's Disease,65,D000544,Alzheimer Disease,"Dementia, Vascular","Plaque, Amyloid",Adie Syndrome,Frontotemporal Dementia,D000544,D015140,D058225,D000270,D057180
+Psoriasis,63,D015535,"Arthritis, Psoriatic",Pemphigus,"Dermatitis, Photoallergic",Dermatitis Herpetiformis,"Pemphigoid, Bullous",D015535,D010392,D017454,D003874,D010391
+Chronic Obstructive Pulmonary Disease,53,D000080445,Asthma-Chronic Obstructive Pulmonary Disease Overlap Syndrome,Pulmonary Heart Disease,Pulmonary Veno-Occlusive Disease,Pulmonary Emphysema,"Bronchitis, Chronic",D000080445,D011660,D011668,D011656,D029481
+Rheumatoid Arthritis,52,D056653,Rheumatoid Vasculitis,Rheumatoid Nodule,"Arthritis, Juvenile","Arthritis, Psoriatic","Arthritis, Gouty",D056653,D012218,D001171,D015535,D015210
+Parkinson's Disease,51,D010300,Parkinson Disease,"Parkinson Disease, Postencephalitic",Lewy Body Disease,Synucleinopathies,Wolff-Parkinson-White Syndrome,D010300,D010301,D020961,D000080874,D014927
+Idiopathic Pulmonary Fibrosis,49,D011658,Pulmonary Fibrosis,Idiopathic Hypersomnia,Retroperitoneal Fibrosis,Familial Primary Pulmonary Hypertension,Cystic Fibrosis,D011658,D020177,D012185,D065627,D003550
+Multiple Sclerosis,47,D020529,Sclerosis,Multiple Myeloma,"Multiple Sclerosis, Relapsing-Remitting","Multiple Sclerosis, Chronic Progressive",Multiple System Atrophy,D012598,D009101,D020529,D020528,D019578
+Breast Cancer,44,D018270,Breast Cancer Lymphedema,"Carcinoma, Ductal, Breast","Breast Neoplasms, Male",Breast Carcinoma In Situ,Inflammatory Breast Neoplasms,D000072656,D018270,D018567,D000071960,D058922
+Colorectal Carcinoma,44,D003123,"Carcinoma, Hepatocellular",Adrenocortical Carcinoma,Nasopharyngeal Carcinoma,"Carcinoma, Medullary",Colonic Polyps,D006528,D018268,D000077274,D018276,D003111
+Sepsis,41,D012772,Neonatal Sepsis,Sepsis-Associated Encephalopathy,"Shock, Septic",Hemorrhagic Septicemia,"Hemorrhagic Septicemia, Viral",D000071074,D065166,D012772,D006483,D031941
+Chronic Lymphocytic Leukemia,38,D015451,"Leukemia, Lymphocytic, Chronic, B-Cell","Leukemia, Neutrophilic, Chronic",Lymphocytic Choriomeningitis,"Leukemia, Myelomonocytic, Chronic","Leukemia, Myeloid, Chronic-Phase",D015451,D015467,D008216,D015477,D015466
+Amyotrophic Lateral Sclerosis,37,D000690,Amyotrophic Lateral Sclerosis,Sclerosis,"Leukoencephalopathy, Progressive Multifocal",Hippocampal Sclerosis,Lateral Medullary Syndrome,D000690,D012598,D007968,D000092223,D014854
+Tuberculosis,35,D014396,"Tuberculosis, Bovine","Tuberculosis, Pleural","Tuberculosis, Laryngeal","Tuberculosis, Miliary","Tuberculosis, Spinal",D014380,D014396,D014387,D014391,D014399
+Atopic Dermatitis,33,D003876,"Dermatitis, Atopic",Dermatitis Herpetiformis,"Dermatitis, Occupational","Dermatitis, Exfoliative",Digital Dermatitis,D003876,D003874,D009783,D003873,D058066
+Acute Myeloid Leukemia (Aml-M2),33,D007947,"Leukemia, Megakaryoblastic, Acute","Leukemia, Myeloid, Accelerated Phase","Leukemia, Monocytic, Acute","Leukemia, Myeloid, Chronic-Phase","Leukemia, Promyelocytic, Acute",D007947,D015465,D007948,D015466,D015473
+Type 1 Diabetes,32,D003922,"Diabetes Mellitus, Type 1",Glycogen Storage Disease Type I,Latent Autoimmune Diabetes in Adults,"von Willebrand Disease, Type 1","Diabetes, Gestational",D003922,D005953,D000071698,D056725,D016640
+Huntington's Disease,31,D006816,Huntington Disease,Hirschsprung Disease,Tay-Sachs Disease,Hodgkin Disease,Parkinson Disease,D006816,D006627,D013661,D006689,D010300
+Prostate Cancer,31,D064129,"Prostatic Neoplasms, Castration-Resistant",Prostatic Intraepithelial Neoplasia,Prostatitis,Parathyroid Neoplasms,Cancer Pain,D064129,D019048,D011472,D010282,D000072716
+Juvenile Idiopathic Arthritis,31,D001171,"Arthritis, Juvenile","Arthritis, Psoriatic",Idiopathic Hypersomnia,"Arthritis, Gouty","Arthritis, Experimental",D001171,D015535,D020177,D015210,D001169
+Melanoma,29,D008545,Melanoma,"Melanoma, Amelanotic","Melanoma, Experimental",Mesenchymoma,"Mesothelioma, Malignant",D008545,D018328,D008546,D008637,D000086002
+Multiple Myeloma,29,D009101,Multiple Myeloma,Smoldering Multiple Myeloma,"Fractures, Multiple",Multiple Endocrine Neoplasia Type 1,Multiple System Atrophy,D009101,D000075122,D000069076,D018761,D019578
+Glioblastoma,26,D005909,Glioblastoma,Gliosarcoma,Meningioma,"Glioma, Subependymal",Ganglioglioma,D005909,D018316,D008579,D018315,D018303
+Sarcoidosis,24,D017565,"Sarcoidosis, Pulmonary",Sarcocystosis,Sarcoglycanopathies,Lymphomatoid Granulomatosis,Myocarditis,D017565,D012523,D058088,D008230,D009205
+Lung Adenocarcinoma,21,D002289,"Adenocarcinoma, Bronchiolo-Alveolar","Carcinoma, Lewis Lung","Adenocarcinoma, Clear Cell",Adenocarcinoma in Situ,"Carcinoma, Non-Small-Cell Lung",D002282,D018827,D018262,D065311,D002289
+Cervical Cancer,21,D002583,Uterine Cervical Neoplasms,Squamous Intraepithelial Lesions of the Cervix,"Carcinoma, Ovarian Epithelial",Uterine Cervical Erosion,"Carcinoma, Endometrioid",D002583,D065310,D000077216,D002579,D018269
+Systemic Sclerosis [Scleroderma],21,D045743,"Scleroderma, Diffuse",Sclerosis,Scleritis,Scleredema Adultorum,"Scleroderma, Localized",D045743,D012598,D015423,D012592,D012594
+Pancreatic Ductal Adenocarcinoma,20,D021441,"Carcinoma, Pancreatic Ductal",Pancreatic Intraductal Neoplasms,"Carcinoma, Ductal, Breast",Duodenal Neoplasms,"Adenocarcinoma, Bronchiolo-Alveolar",D021441,D000077779,D018270,D004379,D002282
+Primary Sjogren Syndrome,18,D012859,Sjogren's Syndrome,Sjogren-Larsson Syndrome,Primary Graft Dysfunction,Primary Myelofibrosis,Acquired Hyperostosis Syndrome,D012859,D016111,D055031,D055728,D020083
+Down Syndrome,18,D004314,Down Syndrome,Adie Syndrome,Posterior Leukoencephalopathy Syndrome,Turner Syndrome,Jacobsen Distal 11q Deletion Syndrome,D004314,D000270,D054038,D014424,D054868
+Renal Cell Carcinoma,18,D002292,"Carcinoma, Renal Cell","Carcinoma, Transitional Cell","Adenocarcinoma, Clear Cell",Renal Colic,"Carcinoma, Small Cell",D002292,D002295,D018262,D056844,D018288
+Cystic Fibrosis,18,D003550,Cystic Fibrosis,Pulmonary Fibrosis,Retroperitoneal Fibrosis,Osteitis Fibrosa Cystica,Peritoneal Fibrosis,D003550,D011658,D012185,D010002,D056627
+Chronic Myeloid Leukemia,17,D015466,"Leukemia, Myeloid, Chronic-Phase","Leukemia, Myelomonocytic, Chronic","Leukemia, Neutrophilic, Chronic","Leukemia, Myeloid, Accelerated Phase","Leukemia, Lymphocytic, Chronic, B-Cell",D015466,D015477,D015467,D015465,D015451
+Non-Alcoholic Steatohepatitis,17,D065626,Non-alcoholic Fatty Liver Disease,"Fatty Liver, Alcoholic","Liver Cirrhosis, Alcoholic",Steatorrhea,"Hepatitis, Alcoholic",D065626,D005235,D008104,D045602,D006519
+Myotonic Dystrophy Type 1,17,D009223,Myotonic Dystrophy,"Diabetes Mellitus, Type 1","Muscular Dystrophy, Duchenne","Muscular Dystrophy, Oculopharyngeal","Muscular Dystrophy, Facioscapulohumeral",D009223,D003922,D020388,D039141,D020391
+Obesity,17,D063766,Pediatric Obesity,"Obesity, Morbid","Obesity, Abdominal",Obesity Hypoventilation Syndrome,"Obesity, Metabolically Benign",D063766,D009767,D056128,D010845,D000067329
+Hutchinson-Gilford Progeria Syndrome,16,D011371,Progeria,DiGeorge Syndrome,Gilbert Disease,Cogan Syndrome,Dysgerminoma,D011371,D004062,D005878,D055952,D004407
+Osteoarthritis,16,D020370,"Osteoarthritis, Knee","Osteoarthritis, Hip","Osteoarthritis, Spine","Osteoarthropathy, Primary Hypertrophic","Osteoarthropathy, Secondary Hypertrophic",D020370,D015207,D055013,D010004,D010005
+Ovarian Cancer,16,D000077216,"Carcinoma, Ovarian Epithelial",Hereditary Breast and Ovarian Cancer Syndrome,Primary Ovarian Insufficiency,Ovarian Hyperstimulation Syndrome,Ovarian Torsion,D000077216,D061325,D016649,D016471,D000082843
+Hepatitis C,14,D019698,"Hepatitis C, Chronic",Hepatitis A,Hepatitis E,"Hepatitis D, Chronic","Hepatitis B, Chronic",D019698,D006506,D016751,D019701,D019694
+Pre-Eclampsia,14,D011225,Pre-Eclampsia,Eclampsia,Preleukemia,Placenta Previa,Prehypertension,D011225,D004461,D011289,D010923,D058246
+Papillary Thyroid Carcinoma,14,D000077273,"Thyroid Cancer, Papillary","Carcinoma, Papillary","Thyroid Carcinoma, Anaplastic","Carcinoma, Papillary, Follicular","Cystadenocarcinoma, Papillary",D000077273,D002291,D065646,D018265,D018283
+Coeliac Disease,13,D002446,Crohn Disease,Celiac Disease,Neglected Diseases,Refsum Disease,Lafora Disease,D003424,D002446,D058069,D012035,D020192
+Gastric Cancer,12,D013274,Stomach Neoplasms,Gastric Fistula,Gallbladder Neoplasms,Gastrinoma,Gingival Neoplasms,D013274,D005747,D005706,D015408,D005887
+Oral Squamous Cell Carcinoma,12,D000077277,Esophageal Squamous Cell Carcinoma,Squamous Cell Carcinoma of Head and Neck,Atypical Squamous Cells of the Cervix,"Carcinoma, Basosquamous","Carcinoma, Acinar Cell",D000077277,D000077195,D065309,D002281,D018267
+Heart Failure,12,D054143,"Heart Failure, Systolic","Heart Failure, Diastolic",Heartburn,Heartwater Disease,Intestinal Failure,D054143,D054144,D006356,D006357,D000090124
+Viral Respiratory Tract Infection,12,D018357,Respiratory Syncytial Virus Infections,Reproductive Tract Infections,Rotavirus Infections,Papillomavirus Infections,Zika Virus Infection,D018357,D060737,D012400,D030361,D000071243
+Dengue Disease,12,D019595,Severe Dengue,Waterborne Diseases,Zika Virus Infection,De Quervain Disease,Typhoid Fever,D019595,D000069578,D000071243,D053684,D014435
+Sickle Cell Disease,11,D012805,Sickle Cell Trait,Hemoglobin SC Disease,Hemoglobin C Disease,Tay-Sachs Disease,"Anemia, Diamond-Blackfan",D012805,D006450,D006445,D013661,D029503
+Bladder Cancer,11,D000093284,Non-Muscle Invasive Bladder Neoplasms,Urinary Bladder Calculi,Urinary Bladder Fistula,"Urinary Bladder, Neurogenic",Urethral Neoplasms,D000093284,D001744,D001747,D001750,D014523
+Lung Squamous Cell Carcinoma,11,D055752,Esophageal Squamous Cell Carcinoma,Squamous Cell Carcinoma of Head and Neck,Small Cell Lung Carcinoma,"Carcinoma, Non-Small-Cell Lung","Carcinoma, Lewis Lung",D000077277,D000077195,D055752,D002289,D018827
+Cirrhosis,11,D008105,"Liver Cirrhosis, Alcoholic","Liver Cirrhosis, Biliary","Liver Cirrhosis, Experimental",Peliosis Hepatis,Hepatic Encephalopathy,D008104,D008105,D008106,D010382,D006501
+Clear Cell Renal Cell Carcinoma,11,D002292,"Carcinoma, Renal Cell","Adenocarcinoma, Clear Cell","Sarcoma, Clear Cell","Carcinoma, Transitional Cell","Carcinoma, Small Cell",D002292,D018262,D018227,D002295,D018288
+Dilated Cardiomyopathy,11,D002311,"Cardiomyopathy, Dilated",Diabetic Cardiomyopathies,Chagas Cardiomyopathy,"Cardiomyopathy, Alcoholic","Cardiomyopathy, Restrictive",D002311,D058065,D002598,D002310,D002313
+Leprosy,11,D015440,"Leprosy, Lepromatous","Leprosy, Borderline","Leprosy, Tuberculoid","Tuberculosis, Laryngeal",Granulomatous Mastitis,D015440,D015439,D015441,D014387,D058890
+Acquired Immunodeficiency Syndrome,11,D000163,Acquired Immunodeficiency Syndrome,Simian Acquired Immunodeficiency Syndrome,Murine Acquired Immunodeficiency Syndrome,Feline Acquired Immunodeficiency Syndrome,Severe Combined Immunodeficiency,D000163,D016097,D016183,D016181,D016511
+Polycystic Ovary Syndrome,11,D011085,Polycystic Ovary Syndrome,Ovarian Hyperstimulation Syndrome,"Polycystic Kidney, Autosomal Recessive","Polycystic Kidney, Autosomal Dominant",Hereditary Breast and Ovarian Cancer Syndrome,D011085,D016471,D017044,D016891,D061325
+Endometriosis,10,D004715,Endometriosis,Endometritis,Endometrial Hyperplasia,"Carcinoma, Endometrioid",Eclampsia,D004715,D004716,D004714,D018269,D004461
+Cornelia De Lange Syndrome,10,D003635,De Lange Syndrome,Jervell-Lange Nielsen Syndrome,Zellweger Syndrome,HELLP Syndrome,CHARGE Syndrome,D003635,D029593,D015211,D017359,D058747
+Bronchopulmonary Dysplasia,10,D001997,Bronchopulmonary Dysplasia,Bronchopulmonary Sequestration,"Aspergillosis, Allergic Bronchopulmonary",Bronchogenic Cyst,Bronchomalacia,D001997,D001998,D001229,D001994,D055091
+Hidradenitis Suppurativa,10,D017497,Hidradenitis Suppurativa,"Thyroiditis, Suppurative","Otitis Media, Suppurative",Duodenitis,Penile Induration,D017497,D013969,D010035,D004382,D010411
+Pulmonary Arterial Hypertension,10,D000081029,Pulmonary Arterial Hypertension,"Hypertension, Pulmonary",Familial Primary Pulmonary Hypertension,Pulmonary Heart Disease,"Stenosis, Pulmonary Artery",D000081029,D006976,D065627,D011660,D000071079

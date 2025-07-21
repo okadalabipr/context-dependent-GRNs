@@ -1,0 +1,1044 @@
+disease,count
+Influenza,102
+COVID-19,99
+Systemic Lupus Erythematosus,86
+Crohn's Disease,76
+Asthma,72
+Ulcerative Colitis,72
+Hepatocellular Carcinoma,68
+Alzheimer's Disease,65
+Psoriasis,63
+Chronic Obstructive Pulmonary Disease,53
+Rheumatoid Arthritis,52
+Parkinson's Disease,51
+Idiopathic Pulmonary Fibrosis,49
+Multiple Sclerosis,47
+Breast Cancer,44
+Colorectal Carcinoma,44
+Sepsis,41
+Chronic Lymphocytic Leukemia,38
+Amyotrophic Lateral Sclerosis,37
+Tuberculosis,35
+Schizophrenia,33
+Atopic Dermatitis,33
+Acute Myeloid Leukemia (Aml-M2),33
+Type 1 Diabetes,32
+Huntington's Disease,31
+Prostate Cancer,31
+Juvenile Idiopathic Arthritis,31
+Melanoma,29
+Multiple Myeloma,29
+Glioblastoma,26
+Sarcoidosis,24
+Autism Spectrum Disorder,23
+Lung Adenocarcinoma,21
+Cervical Cancer,21
+Brain Tumor,21
+Systemic Sclerosis [Scleroderma],21
+Pancreatic Ductal Adenocarcinoma,20
+Colon Tumor,19
+Myelodysplastic Syndromes,19
+Primary Sjogren Syndrome,18
+Down Syndrome,18
+Renal Cell Carcinoma,18
+Myelodysplastic Syndrome,18
+Cystic Fibrosis,18
+Chronic Myeloid Leukemia,17
+Non-Alcoholic Steatohepatitis,17
+Myotonic Dystrophy Type 1,17
+Obesity,17
+Non-Small Cell Lung Cancer,16
+Hutchinson-Gilford Progeria Syndrome,16
+Osteoarthritis,16
+Ovarian Cancer,16
+Bipolar Disorder,15
+Hepatitis C,14
+Pre-Eclampsia,14
+Papillary Thyroid Carcinoma,14
+Juvenile Dermatomyositis,13
+Coeliac Disease,13
+Type 2 Diabetes,13
+Lupus Nephritis,12
+Gastric Cancer,12
+Oral Squamous Cell Carcinoma,12
+Heart Failure,12
+Glioma,12
+Viral Respiratory Tract Infection,12
+Lung Disease,12
+Dengue Disease,12
+Pancreatic Cancer,11
+Sickle Cell Disease,11
+Bladder Cancer,11
+Septic Shock,11
+Acute Myeloid Leukemia,11
+Lung Squamous Cell Carcinoma,11
+Cirrhosis,11
+Clear Cell Renal Cell Carcinoma,11
+Dilated Cardiomyopathy,11
+Leprosy,11
+Acquired Immunodeficiency Syndrome,11
+Polycystic Ovary Syndrome,11
+Germ Cell Tumor,10
+Lung Cancer,10
+Esophageal Squamous Cell Carcinoma,10
+Colorectal Adenoma,10
+Endometriosis,10
+Esophageal Cancer,10
+Cornelia De Lange Syndrome,10
+Bronchopulmonary Dysplasia,10
+Hidradenitis Suppurativa,10
+Pulmonary Arterial Hypertension,10
+Nasopharyngeal Carcinoma,9
+Liver Cirrhosis,9
+Diabetes,9
+Duchenne Muscular Dystrophy,9
+Diabetic Kidney Disease,9
+Ovarian Serous Carcinoma,9
+Pharyngitis,9
+Active Tuberculosis,9
+Waldenstrom Macroglobulinemia,8
+Myeloproliferative Neoplasm,8
+Follicular Lymphoma,8
+Malaria,8
+Colon Cancer,8
+Smith-Lemli-Opitz Syndrome,8
+Ankylosing Spondylitis,8
+Barrett's Esophagus,8
+Monoclonal Gammopathy of Undetermined Significance,8
+Myocardial Infarction,8
+Squamous Cell Carcinoma,8
+Head And Neck Squamous Cell Carcinoma,8
+Tuberculosis/Hyperglycaemia And Diabetes,8
+Ichthyosis,8
+Chronic Kidney Disease,8
+Eosinophilic Esophagitis,7
+Chronic Rhinosinusitis,7
+Astrocytoma,7
+Lymphoma,7
+Facioscapulohumeral Dystrophy,7
+Arthritis,7
+Acute-On-Chronic Liver Failure,7
+Mycosis Fungoides,7
+Age Related Macular Degeneration,7
+Systemic Juvenile Idiopathic Arthritis,7
+Generalized Pustular Psoriasis,7
+Wilms Tumor,7
+Dermatomyositis,7
+Polyarticular Juvenile Idiopathic Arthritis,7
+Interstitial Lung Disease,7
+Sjogren's Syndrome,7
+Williams Syndrome,7
+Vestibular Schwannoma,7
+Diffuse Large B-Cell Lymphoma,7
+B-Cell Acute Lymphoblastic Leukemia,7
+Behcet's Disease,6
+Intracranial Aneurysm,6
+Systemic Inflammatory Response Syndrome,6
+Kawasaki Disease,6
+Trachoma,6
+Hepatoma,6
+Allergic Rhinitis,6
+Non-Alcoholic Fatty Liver Disease,6
+Limb-Girdle Muscular Dystrophy Type 2A,6
+Tongue Squamous Cell Carcinoma,6
+Pneumonia,6
+Neonatal-Onset Multisystem Inflammatory Disease,6
+Irritable Bowel Syndrome,6
+Spinal Muscular Atrophy,6
+Focal Segmental Glomerulosclerosis,6
+Cutaneous T Cell Lymphoma,6
+Colon Adenocarcinoma,6
+Neuroblastoma,6
+Hepatitis B,6
+Cholangiocarcinoma,6
+Hypertrophic Cardiomyopathy,6
+Common Variable Immunodeficiency,6
+Klinefelter Syndrome,6
+Major Depressive Disorder,6
+Acute Liver Failure,6
+Non-Obstructive Azoospermia,5
+Type 2 Diabetes Mellitus,5
+Clinically Isolated Syndrome,5
+Subacute Cutaneous Lupus Erythematosus,5
+Juvenile Myelomonocytic Leukemia,5
+Gestational Diabetes,5
+Coenzyme Q10 Deficiency,5
+Cardiomyopathy,5
+Inflammatory Bowel Disease,5
+Medulloblastoma,5
+Scleroderma,5
+Frontotemporal Dementia,5
+Coronary Artery Disease,5
+Myotonic Dystrophy Type 2,5
+Essential Thrombocythemia,5
+Thyroid Cancer,5
+Actinic Keratosis,5
+Severe Acute Respiratory Syndrome,5
+Inclusion Body Myositis,5
+Undifferentiated Schizophrenia,5
+Post-Traumatic Stress Disorder,5
+Facioscapulohumeral Muscular Dystrophy,5
+Relapsing-Remitting Multiple Sclerosis,4
+Thalassaemia,4
+Retinitis Pigmentosa,4
+Fuchs Endothelial Corneal Dystrophy,4
+Collagenous Colitis,4
+T-Cell Acute Lymphoblastic Leukemia,4
+Cutaneous Lupus Erythematosus,4
+Esophageal Adenocarcinoma,4
+Liver Cancer,4
+Steatosis,4
+Acute Lymphoblastic Leukemia,4
+Hepatoblastoma,4
+Esophagitis,4
+Paroxysmal Nocturnal Hemoglobinuria,4
+Colitis,4
+AIDS Dementia,4
+Prostate Adenocarcinoma,4
+Lewy Body Dementia,4
+Invasive Pneumococcal Disease; Recurrent Isolated,4
+Limb-Girdle Muscular Dystrophy,4
+Gastric Tumor,4
+Head And Neck Cancer,4
+IgA Nephropathy,4
+Becker Muscular Dystrophy,4
+Polycythemia Vera,4
+Ischemia Reperfusion Injury,4
+Severe Fever With Thrombocytopenia Syndrome,4
+Adenocarcinoma,4
+Netherton Syndrome,4
+Cerebral Hemorrhage,4
+Atherosclerosis,4
+Autism,4
+Primary Myelofibrosis,4
+Cutaneous Leishmaniasis,4
+Rectal Cancer,4
+Q Fever,4
+Thyroid Carcinoma,4
+22Q11.2 Deletion Syndrome,4
+Hereditary Sensory Neuropathy Type 1F,4
+Granulomatosis With Polyangiitis,4
+Atypical Teratoid Rhabdoid Tumor,4
+Clear Cell Ependymoma,4
+Ovarian Tumor,4
+Primary Biliary Cholangitis,4
+Allergic Asthma,4
+Tetralogy of Fallot,4
+Keloid,4
+Alcoholic Hepatitis,4
+Adrenocortical Carcinoma,4
+Familial Hypercholesterolemia,4
+Systemic Sclerosis,4
+Leiomyoma,4
+Infant Acute Respiratory Distress Syndrome,4
+Small Cell Lung Cancer,4
+Visceral Leishmaniasis,4
+Periodontitis,4
+Dupuytren's Disease,3
+Opioid Use Disorder; Severe,3
+Familial Adenomatous Polyposis,3
+Localized Scleroderma,3
+Ataxia Telangiectasia,3
+Ketosis-Prone Diabetes (Mellitus),3
+Spinal Cord Disorder,3
+High-Grade Serous Ovarian Cancer,3
+Scleroderma-Associated Interstitial Lung Disease,3
+Hyper-Ige Syndrome,3
+Tracheoesophageal Fistula,3
+Systemic-Onset Juvenile Idiopathic Arthritis,3
+Kaposi Sarcoma,3
+Abdominal Aortic Aneurysm,3
+Pilocytic Astrocytoma,3
+Chronic Idiopathic Urticaria,3
+Chronic Myelogenous Leukemia,3
+Recurrent Thromboembolism,3
+Intraductal Papillary Adenocarcinoma,3
+Testicular Seminoma,3
+Juvenile Rheumatoid Arthritis,3
+Oral Mucosa Leukoplakia,3
+Oligodendroglioma,3
+Acne,3
+Mucopolysaccharidosis Type I,3
+Uterine Leiomyoma,3
+Acute Myeloblastic Leukemia,3
+Leukemia,3
+B-Acute Lymphoblastic Leukemia,3
+Sporadic Amyotrophic Lateral Sclerosis,3
+Autosomal Dominant Polycystic Kidney Disease,3
+Hyperplastic Polyp,3
+Sessile Serrated Adenoma/Polyp,3
+"Amyotrophic Lateral Sclerosis, Familial",3
+Juvenile Neuronal Ceroid Lipofuscinosis,3
+Monocytosis,3
+Diabetic Retinopathy,3
+Papillary Renal Cell Carcinoma,3
+Plasma Cell Leukemia,3
+Venous Thromboembolism,3
+Tendinopathy,3
+Fibrosis; Liver,3
+Basal Cell Carcinoma,3
+Autosomal Dominant Hyper-Ige Syndrome,3
+Metastatic Prostate Cancer,3
+Lung Tumor,3
+Pancreatic Tumor,3
+Gestational Hypertension,3
+Ciliopathy,3
+Chronic Graft-Versus-Host Disease,3
+H Syndrome,3
+AIPL1-Leber Congenital Amaurosis,3
+Non-Sjogren's sicca,3
+Glioblastoma Multiforme,3
+Environmental Enteric Dysfunction,3
+Pitt-Hopkins Syndrome,3
+Burn,3
+Oropharyngeal Cancer,3
+Pancreatic Adenocarcinoma,3
+Invasive Breast Carcinoma,3
+Liver Hepatocellular Carcinoma,3
+Airway Injury,3
+Meningitis,3
+Pituitary Tumor,3
+Systemic Sclerosis With Lung Involvement,3
+Gestational Diabetes Mellitus,3
+Gaucher Disease,3
+Atopic Eczema,3
+Severe Trauma,3
+Sezary Syndrome,3
+HIV-1 Infection,3
+Immune Dysregulation,3
+Alcohol Use Disorder,3
+Oxidation Resistance 1 Mutation,3
+Multiple System Atrophy,3
+Neurofibromatosis Type 1,3
+Rash,3
+Myotonic Dystrophy,3
+Cardioembolic Stroke,3
+Plaque Psoriasis,3
+Chronic Spontaneous Urticaria,3
+Leishmaniasis,3
+Friedreich Ataxia,3
+Muscular Dystrophy,3
+Peripartum Cardiomyopathy,3
+Keratopathy,3
+Spinal And Bulbar Muscular Atrophy,3
+Pulmonary Tuberculosis,3
+Emery-Dreifuss Muscular Dystrophy,3
+Ductal Carcinoma In Situ,3
+Acute Pancreatitis,3
+Active Uveitis,3
+Community Acquired Pneumonia,3
+Lichen Planus,3
+Tongue Carcinoma,3
+Disorganized Schizophrenia,3
+Schizoaffective Disorder,3
+Shwachman-Diamond Syndrome,3
+Ataxia-Telangiectasia,3
+St Segment Elevation Myocardial Infarction,3
+Lyme Disease,3
+Acute Liver Inflammation,3
+Anaplastic Thyroid Carcinoma,3
+Metastatic Melanoma,3
+Liver Tumor,3
+T-Cell Leukemia,3
+Acute Coronary Syndrome,3
+Irritable Bowel Syndrome With Diarrhea,2
+Urothelial Carcinoma of The Urinary Bladder,2
+Severe Combined Immunodeficiency,2
+Kidney Disease,2
+Chronic Liver Disease,2
+Pituitary Adenoma,2
+Mitochondrial Myopathy,2
+Acne Inversa,2
+Hodgkin Lymphoma,2
+Lipomas,2
+Timothy Syndrome,2
+Paranoid Schizophrenia,2
+Acutely Injured,2
+Anaphylaxis,2
+Reactive Oxygen Injury,2
+Fever,2
+Psoriasis Vulgaris,2
+Asthma;Rhinitis,2
+Hepatic Fibrosis,2
+Secondary Progressive Multiple Sclerosis,2
+Rhinitis,2
+Sebaceous Gland Carcinoma,2
+Langerhans Cell Histiocytosis,2
+Non-Specific Interstitial Pneumonia,2
+Aortic Stenosis,2
+Aphthous Stomatitis,2
+Endotoxemia,2
+Ovarian Cancer Stage I,2
+Endometrial Cancer,2
+Discoid Lupus Erythematosus,2
+Hereditary Pheochromocytoma-Paraganglioma,2
+Xeroderma Pigmentosum,2
+Primary Sclerosing Cholangitis,2
+Restrictive Respiratory Disease,2
+Proliferative Diabetic Retinopathy,2
+T-Cell Lymphoma,2
+Interstitial Cystitis,2
+7Q11.23 Microduplication Syndrome,2
+Bronchiolitis; Viral,2
+Infectious Keratitis,2
+Chronic Wounding,2
+Autoimmune Lymphoproliferative Syndrome,2
+Invasive Aspergillosis,2
+Hereditary Spastic Paraplegia 3A,2
+Epilepsy,2
+Idiopathic Dilated Cardiomyopathy,2
+Depression,2
+Prostate Carcinoma,2
+Uc - Pancolitis,2
+Craniosynostosis,2
+Adenocarcinoma; Metastatic,2
+Allergic Contact Dermatitis,2
+Adenocarcinoma of Esophagus,2
+Candidemia,2
+Vogt-Koyanagi-Harada Disease,2
+Smoldering Myeloma,2
+Acute Wounding,2
+Aromatic L-Amino Acid Decarboxylase Deficiency,2
+Allergy,2
+Juvenile Polymyositis,2
+Cryptorchidism,2
+Henoch-Schoenlein Purpura,2
+Burn-Mckeown Syndrome,2
+Adenocarcinoid Tumor,2
+Intellectual Disability,2
+Cardiovascular Disease,2
+Non-Functioning Pituitary Adenoma,2
+Mantle Cell Lymphoma,2
+Sotos Syndrome,2
+Primary Progressive Multiple Sclerosis,2
+Metabolic Syndrome,2
+Lung Injury,2
+Adrenocortical Adenoma,2
+Chronic Thromboembolic Pulmonary Hypertension,2
+Membranous Nephropathy,2
+Minimal Change Disease,2
+Tuberculosis Infection,2
+Mixed Hcc/Cc Tumours,2
+Acute Graft Versus Host Disease,2
+Gastric Metaplastic Polyp,2
+Head Trauma,2
+Eosinophilic Asthma,2
+Pola1 Deficiency,2
+HTLV-1-Associated Myelopathy/Tropical Spastic Paraparesis,2
+Nedamss Syndrome,2
+Colorectal Adenocarcinoma,2
+Chronic Myelomonocytic Leukemia,2
+Chromophobe Renal Cell Carcinoma,2
+Charcot-Marie-Tooth Disease Type 1A,2
+Spinocerebellar Ataxia Type 6 (Disorder),2
+Uremia,2
+Latent Tuberculosis,2
+Rhinosinusitis,2
+Hypertension,2
+Acute Quadriplegic Myopathy,2
+Hereditary Spastic Paraplegia,2
+Limb-Girdle Muscular Dystrophy Type 2B,2
+Stroke,2
+Gastroesophageal Reflux Disease,2
+Urothelial Carcinoma,2
+Pulmonary Hypertension,2
+Global Developmental Delay,2
+Metastatic Pancreatic Ductal Adenocarcinoma,2
+Gastric Adenocarcinoma,2
+Cervical Squamous Cell Carcinoma,2
+Hemorrhoids,2
+Erythema Migrans,2
+Idiopathic Environmental Intolerance,2
+Adult Onset Asthma,2
+Colon Serrated Polyposis,2
+Wegener's Granulomatosis,2
+Tumorigenesis,2
+Bacterial Meningitis,2
+Aplastic Anemia,2
+Globoid Cell Leukodystrophy,2
+Tuberculous Meningitis,2
+T-Cell Prolymphocytic Leukemia,2
+Bacterial Pneumonia,2
+Meningioma,2
+Giant Cell Arteritis,2
+Chronic Fatigue Syndrome,2
+Villitis of Unknown Etiology,2
+Granulosa Cell Tumor,2
+Liver Dysplastic Nodule,2
+Dengue Hemorrhagic Fever,2
+Cutaneous Squamous Cell Carcinoma,2
+RelA haploinsufficiency,2
+Ophthalmopathies Thyroid Assoc,2
+Cockayne Syndrome,2
+Ependymoma,2
+Pseudotumor (Inflammatory) of Orbit,2
+Diabetic Peripheral Angiopathy,2
+Malignant Germ Cell Tumor,2
+Diamond-Blackfan Anemia,2
+Idiopathic Myelofibrosis,2
+Diabetes Mellitus,2
+Autoinflammatory Disease,2
+Turner Syndrome,2
+Retinoblastoma,2
+Cancer of The Gastric Cardia,2
+Duodenitis,2
+Lupus Erythematosus,2
+Recessive Dystrophic Epidermolysis Bullosa,2
+Medullary Thyroid Cancer,2
+Mucormycosis,2
+Candidiasis,2
+Aspergillosis,2
+Vexas Syndrome,2
+Non-Proliferative Dr,2
+Maculopapular Lesion,2
+Non steroidal Anti-Inflammatory Drug,2
+Ischemic Cardiomyopathy,2
+Cerebral Cavernous Malformation,2
+Sarcopenia,2
+Borderline Ovarian Epithelial Tumor,2
+Kidney Tumor,2
+Sporadic Creutzfeldt-Jakob Disease,2
+Migraine,2
+Increased Intracranial Pressure,2
+Idiopathic Pulmonary Arterial Hypertension,2
+Glaucoma,2
+Severe Asthma,2
+Neoplasm,2
+Idiopathic Interstitial Pneumonia,2
+Neonatal Hypoparathyroidism,2
+Infiltrating Ductal Carcinoma,2
+Cystic Tumor,2
+"Dysautonomia, Familial",2
+Chronic Atrial And Intestinal Dysrhythmia,2
+Ischemic Stroke,2
+Respiratory Syncytial Virus Infectious Disease,2
+Macular Degeneration,2
+Hypertensive Pregnancies,2
+Smoldering Multiple Myeloma,2
+Diabetic Foot Ulcer,2
+Large Granular Lymphocytic Leukemia,2
+Epstein-Barr Virus Infection,2
+Autosomal Dominant Macrothrombocytopenia,2
+Cryopyrin-Associated Periodic Syndromes,2
+Developmental Disability,2
+Malignant Pleural Mesothelioma,2
+Granuloma Annulare,2
+Congenital Melanocytic Nevus,2
+Polymyositis,2
+Acute Myocardial Infarction,2
+Microinvasive Squamous Cell Carcinoma,2
+Preterm Labor,2
+Pulmonary Sarcoidosis,2
+Emphysema,2
+Vulvar Intraepithelial Neoplasia,2
+Transient Patchy Type Disease,2
+Multiple Mitochondrial Dysfunctions Syndrome,2
+Diffuse Astrocytoma,2
+Thyroid Tumor,2
+Peripheral Artery Disease,2
+Cervical Squamous Cell Carcinoma;Endocervical Adenocarcinoma,2
+Prostate Tumor,2
+Liver Dysplasia,2
+Hellp Syndrome,1
+Strep Infection,1
+Rett Syndrome,1
+Amyloidosis,1
+Group A Streptococcal Infections,1
+Leptospirosis,1
+Cushing's Disease,1
+Guillain-Barre Syndrome,1
+Hidradenitis,1
+Hepatic Steatosis,1
+Polycystic Liver Disease,1
+Alopecia Universalis,1
+Silver-Russell Syndrome,1
+Alopecia Totalis,1
+Xeroderma Pigmentosum Variant,1
+Brucellosis,1
+Atypical Hemolytic Uremic Syndrome;Common Variable Immune Deficiency,1
+Erythematotelangiectatic Rosacea,1
+Papulopustular Rosacea,1
+Hypermobile Ehlers-Danlos Syndrome,1
+Cerebral Aneurysm,1
+Glomerulosclerosis,1
+Hypermobility Spectrum Disorders,1
+Vasculitis,1
+Rosacea,1
+Still's Disease,1
+Uveitis,1
+Dissection of Aorta,1
+Autosomal Recessive Congenital Ichthyosis,1
+Patchy Type Disease,1
+Staphylococcus Infection,1
+Early Inflammatory Arthritis,1
+Eosinophilia Myalgia Syndrome,1
+Diabetes;Heart Failure,1
+Nodular Lymphocyte Predominant Hodgkin Lymphoma,1
+Infective Endocarditis,1
+Familial Hemophagocytic Lymphohistiocytosis,1
+Acth-Independent Macronodular Adrenal Hyperplasia,1
+Hypoplastic Left Heart Syndrome,1
+Ischemic Heart Disease,1
+Bronchitis,1
+Recurrent Non-Muscle Invasive Tumor,1
+Defective Complex I,1
+Unspecified Septicemia,1
+Bipolar Depression,1
+Metachromatic Leukodystrophy,1
+Phelan-Mcdermid Syndrome,1
+Systemic Sclerosis-Associated Interstitial Lung Disease,1
+Meniere Disease,1
+Golabi-Ito-Hall Syndrome,1
+Malt Lymphoma,1
+POR-deficient,1
+POR-Mutations,1
+Prurigo Nodularis,1
+Immune Reconstitution Inflammatory Syndrome,1
+Late-Onset Form of Familial Alzheimer Disease,1
+Ollier Enchondroma,1
+Acute Hepatitis B,1
+Lupus,1
+22Q11 Deletion Syndrome,1
+Familial Amyloid Polyneuropathy,1
+B-Cell Non-Hodgkin's Lymphoma,1
+Rectal Carcinoma,1
+Chronic Active Ebv Infection,1
+X-Linked Dystonia Disorders-Parkinsonism,1
+B-Cell Non-Hodgkin Lymphoma,1
+Rapid-Onset Obesity With Hypothalamic Dysfunction; Hypoventilation; And Autonomic Dysregulation,1
+Fragile X Syndrome,1
+Meth-Dependency Without Psychosis,1
+Bronchiolitis Obliterans,1
+Tracheal Stenosis,1
+HIV-Associated Neurocognitive Disorder,1
+Type C Niemann-Pick Disease,1
+Giant Cell Tumor,1
+Systemic Capillary Leak Syndrome,1
+Avascular Necrosis of Femoral Head,1
+Acute Respiratory Distress Syndrome,1
+Kidney Clear Cell Carcinoma,1
+Ataxia With Oculomotor Apraxia Type 2,1
+Oculomotor Apraxia,1
+Ovarian Adenocarcinoma,1
+Idiopathic Pulmonary Hypertension,1
+Lynch Syndrome,1
+Seminoma,1
+Psoriatic Arthritis,1
+Follicular Thyroid Adenoma,1
+Thyroid Oncocytic Adenoma,1
+Thyroid Oncocytic Carcinoma,1
+Olive Pollen Allergy,1
+Non-Alcoholic Steatohepatitis;Hepatocellular Carcinoma,1
+Ewing Sarcoma,1
+Papillary Serous Ovarian Adenocarcinomas,1
+Congenital Myotonic Dystrophy,1
+Follicular Thyroid Carcinoma,1
+Metastatic Neuroblastoma,1
+Rhabdoid Tumor,1
+"Inclusion Body Myopathy, Autosomal Dominant",1
+Necrotizing Enterocolitis,1
+Intestinal Perforation,1
+Chondrosarcoma,1
+Paraganglioma,1
+Kidney Chromophobe,1
+Rectum Adenocarcinoma,1
+Metastatic Invasive Skin Cutaneous Celanoma,1
+Stomach Adenocarcinoma,1
+Metastatic Invasive Thyroid Carcinoma,1
+Uterine Corpus Endometrioid Carcinoma,1
+Leber Hereditary Optic Neuropathy,1
+Noonan Syndrome,1
+Metastatic Invasive Breast Carcinoma,1
+Pheochromocytoma,1
+Abnormality of The Pulmonary Veins,1
+Endometrioma,1
+Secondary Pulmonary Arterial Hypertension,1
+Respiratory Syncytial Virus (Rsv),1
+Aneurysm,1
+HBS1L Mutation,1
+Steroid-Induced Osteonecrosis of The Femoral Head,1
+Transitional Cell Tumor,1
+Niemann-Pick Disease,1
+Complete Androgen Insensitivity Syndrome,1
+Tuberous Sclerosis Complex,1
+Nephrosclerosis,1
+Cytomegalovirus Infection,1
+Skin Fibroma,1
+Constrictive Pericarditis,1
+Metabolically Healthy Obesity,1
+Severe COVID-19,1
+Kidney Oncocytoma,1
+Invasive Lobular Carcinoma,1
+Hepatic Hemangioma,1
+Pheochromocytomas And Paragangliomas,1
+Mycobacterium Tuberculosis,1
+Retinal Detachment,1
+Ovarian Clear Cell Adenocarcinoma,1
+Tibial Muscular Dystrophy,1
+Chronic (Viral) Hepatitis B,1
+Lymphoplasmacytic Lymphoma,1
+Calcified Aortic Valve,1
+Pompe Disease,1
+Influenza And Pneumonia,1
+Bacterial pneumonia;influenza A pneumonia,1
+Inflammatory Myopathy,1
+Colon Adenoma,1
+Hepatic Carcinosarcoma,1
+Intrahepatic Cholestasis,1
+Biliary Atresia,1
+Complex Regional Pain Syndrome,1
+Adenomatous Polyps,1
+Early Proximal Colon Preneoplasia,1
+Squamous Cell Carcinoma In Situ,1
+Primary Mitochondrial Respiratory Chain Disease,1
+Androgenetic Alopecia,1
+Leber Congenital Amaurosis,1
+Infectious Mononucleosis,1
+Adrenomyeloneuropathy,1
+Cerebral Adrenoleukodystrophy,1
+Acute Monocytic Leukemia,1
+Enteritis,1
+Whipple's Disease,1
+Microinvasive Breast Carcinoma,1
+Congenital Muscular Dystrophy (Disorder),1
+Intravascular Large B-Cell Lymphoma,1
+Sebaceous Hyperplasia,1
+Paroxysmal Kinesigenic Dyskinesia,1
+Extrapulmonary Tuberculosis,1
+Dyskeratosis Congenita,1
+Congenital Anomalies of Kidney And Urinary Tract 1,1
+Teratoma,1
+Postpartum Depression,1
+Type A Aortic Dissection,1
+Myopathy,1
+Idiopathic Non-Cirrhotic Portal Hypertension,1
+Obsessive-Compulsive Disorder,1
+Chronic Small Plaque Psoriasis,1
+Alpha-1 Antitrypsin Deficiency,1
+Injury of Liver,1
+Chronic Granulomatous Disease,1
+Lipodystrophy,1
+Dermatitis,1
+Diffuse Sclerosis,1
+Acute Alcoholic Hepatitis,1
+Eosinophilic Granulomatosis With Polyangiitis,1
+Multiple Suture Craniosynostosis,1
+Adenoid Cystic Carcinoma,1
+Anaplastic Pleomorphic Xanthoastrocytoma,1
+Pancreatic Intraductal Papillary Mucinous Neoplasm,1
+Temporal Lobe Epilepsy,1
+Chordoma,1
+Infection By Leishmania Braziliensis,1
+Lower Respiratory Tract Infections,1
+Adhesive Capsulitis,1
+Chronic Pancreatitis,1
+Unstable Angina Pectoris,1
+Respiratory Bronchiolitis Interstitial Lung Disease,1
+Pleomorphic Xanthoastrocytoma,1
+Mast Cell Leukemia;Chronic Erythroblastic Leukemia,1
+Temple Syndrome,1
+Spinocerebellar Ataxia Type 10,1
+Vascular Ehlers-Danlos Syndrome,1
+Henoch-Schonlein Purpura Nephritis,1
+Myositis,1
+Primary Antiphospholipid Syndrome,1
+Progressive Diabetic Kidney Disease,1
+Metastatic Adenocarcinoma,1
+Chagas Cardiomyopathy,1
+Premature Aging,1
+B-Cell Expansion With Nfkb And T-Cell Anergy,1
+Microtia,1
+Lung Carcinoma,1
+Cardiac Hypoxia,1
+Plaa-Associated Neurodevelopmental Disorder,1
+Cerebral Infarction,1
+Protein C Deficiency,1
+Pregnancy Loss,1
+Retinal Pigment Epithelium,1
+Respiratory System Disease,1
+Gingivitis,1
+Idiopathic Intracranial Hypertension,1
+Hyperlactatemia,1
+IPF Alveolar Septae,1
+Seasonal Allergic Rhinitis,1
+Chronic Heart Failure,1
+Bacterial Infection,1
+Viral Infection,1
+Lymphedema,1
+C4 Deficiency,1
+Degenerative Intervertebral Discs,1
+Developmental Dysplasia of The Hip,1
+Sebaceous of Jadassohn Nevus,1
+IPF Fibrobalst Foci,1
+Idiopathic Hemorrhagic Thrombocythemia,1
+Skin Squamous Cell Carcinoma,1
+Early Pregnancy Loss,1
+Squamous Intraepithelial Lesion,1
+Trichothiodystrophy,1
+Progressive Hepatocellular Carcinoma,1
+Cervical Intraepithelial Neoplasia,1
+Coronary Disease,1
+Porto-sinusoidal vascular disease,1
+Epithelioid Trophoblastic Tumor,1
+Renal Tumor,1
+Classical Ehlers-Danlos Syndrome,1
+Falciparum Malaria,1
+Kindler Syndrome,1
+Cd46 Deficiency,1
+Classical Hodgkin Lymphoma,1
+Pfapa Syndrome,1
+Heart Failure;Human Dilated Cardiomyopathy,1
+Plasmodium Falciparum Malaria,1
+Adult-Onset Still Disease,1
+Diabetic Gastroenteropathy,1
+Keratoconus,1
+High Grade Intraepithelial Neoplasia,1
+Hypertensive Nephropathy,1
+Tropical Spastic Paraparesis,1
+Chronic Infantile Neurological Cutaneous And Articular Syndrome,1
+Pediatric Crohn's Disease,1
+Chuvash Polycythemia,1
+Aicardi Goutieres Syndrome,1
+Acute Myeloid Leukemia With Multilineage Dysplasia,1
+Peri-Implantitis,1
+Steatohepatitis,1
+Gastrointestinal Cancer,1
+H1N1 Influenza,1
+Severe Blunt Trauma,1
+Arteriovenous Fistula,1
+Pediatric Ulcerative Colitis,1
+AL Amyloidosis,1
+Alcoholic Cirrhosis,1
+Astroblastoma,1
+Autosomal Dominant Retinitis Pigmentosa,1
+Bronchial Asthma,1
+X-Linked Juvenile Retinoschisis 1,1
+Myeloid Leukemia Associated With Down Syndrome,1
+Cognitive Impairment,1
+Intrauterine Growth Restriction,1
+Ataxia With Oculomotor Apraxia Type 1,1
+Stomach Cancer,1
+Cervical Adenocarcinoma,1
+Unexplained Infertility,1
+Aortic Insufficiency,1
+Metastatic Head And Neck Squamous Cell Carcinoma,1
+Lung Carcinoid Tumor,1
+Pre-Eclampsia;Intrauterine Growth Restriction,1
+Metastatic Ovarian Cancer,1
+Malignant Neoplasm of Oesophagus,1
+Myelodysplasia,1
+Squamous Cell Lung Carcinoma,1
+Infertility,1
+T Cell Prolymphocytic Leukemia,1
+Aortic Valve Disease,1
+Preterm Birth,1
+Serous Cystadenocarcinoma,1
+High-Grade Squamous Intraepithelial Lesions,1
+Schwannoma,1
+Myelomeningocele,1
+Primitive Neuroectodermal Tumor,1
+Rhinovirus Infection,1
+Angelman Syndrome,1
+Aortic Dissection,1
+Conjunctival Squamous Cell Carcinoma,1
+Adult T-Cell Leukemia,1
+Obesity; Metabolically Benign,1
+Idiopathic Cd4 Lymphocytopenia,1
+Fanconi Anemia,1
+Aortic Disease,1
+Influenza A (H1N1),1
+Primary Biliary Cirrhosis,1
+Autoimmune Hepatitis,1
+Japanese Encephalitis,1
+Conjunctival Melanoma,1
+Pregnancy Loss; Recurrent; Susceptibility To; 2,1
+Burkitt Lymphoma,1
+Lymphangioleiomyomatosis,1
+Low-Grade Squamous Intraepithelial Lesions,1
+Acute Tonsillitis,1
+Allergic Disorder of Respiratory System,1
+Brain Damage,1
+Squamous Cell Carcinoma of Cervix,1
+Proliferative Dr,1
+Juvenile Spondyloarthropathy,1
+Uterine Fibroid,1
+Discoid Lupus Rash,1
+Salivary Gland Adenoid Cystic Carcinoma,1
+Prolactinoma,1
+Hypersensitivity Pneumonitis,1
+Invasive Ductal Breast Carcinoma,1
+Acute Appendicitis,1
+Squamous Cell Papilloma,1
+Cleft Lip/Palate,1
+Williams-Beuren Syndrome,1
+Atopic Asthma,1
+Pancreatic Intraductal Papillary-Mucinous Adenoma,1
+Bk Virus Nephropathy,1
+Endometrium In Polycystic Ovary Syndrome,1
+Iscu Myopathy,1
+Teratozoospermia,1
+Adenoma,1
+Hepatocellular Adenoma,1
+Thyroid Associated Opthalmopathies,1
+Necrotizing Myopathy,1
+Non specific Myopathy,1
+Progressive Chronic Myeloid Leukemia,1
+Progressive Colorectal Carcinoma,1
+Intraosseous Ameloblastoma,1
+Keratocystic Odontogenic Tumor,1
+Pancreatic Intraductal Papillary-Mucinous Neoplasm,1
+Choroid Plexus Papilloma,1
+Vaginal Dryness,1
+Noonan/Jmml Syndrome,1
+Aldosterone-Producing Adenoma,1
+Esophagus Squamous Cell Carcinoma,1
+Papillary Thyroid Cancer,1
+Idiopathic Iga Nephopathy,1
+Alexander Disease,1
+Extramammary Paget Disease,1
+Malignant Struma Ovarii,1
+Hypercholesterolemia,1
+Mitochondrial Myopathy; Encephalopathy; Lactic Acidosis; And Stroke-Like Episodes,1
+Marfan Syndrome,1
+Lymphatic Malformation 3,1
+Hepatosplenic T-Cell Lymphoma,1
+Measles,1
+Kashin-Beck Disease,1
+Chronic Rejection of Renal Transplant,1
+Ischemia,1
+Tonsillar Carcinoma,1
+Alpha Thalassemia-Intellectual Disability Syndrome Type 1,1
+Heart Failure With Preserved Ejection Fraction,1
+Sinonasal Inverted Papilloma,1
+X-Linked Acrogigantism,1
+Frontotemporal Lobar Degeneration,1
+Pulmonary Fibrosis,1
+Carcinoma of The Base of The Tongue,1
+Complete Hydatidiform Mole,1
+Non-Erosive Reflux Disease,1
+B-Cell Pediatric Acute Lymphoblastic Leukemia,1
+TAB2 haploinsufficiency,1
+Meningeal Tuberculosis,1
+Vaginal Atrophy,1
+Odontogenic Keratocysts of The Jaw,1
+Odontogenic Keratocyst,1
+Osteoarthritis of Knee,1
+Uc - L Colitis,1
+CHOPS Syndrome,1
+Prolidase Deficiency,1
+Vitiligo,1
+Heterotopic Ossification,1
+Lowe Syndrome,1
+Blastic Plasmacytoid Dendritic Cell Neoplasm (Bpdcn),1
+Optic Neuritis,1
+Mitral Regurgitation,1
+Peripheral T-Cell Lymphoma; Not Otherwise Specified,1
+Atrophy of testis,1
+Pancreatitis,1
+Achalasia,1
+Diabetic Vascular Disorder,1
+Aldh18A1 Mutations,1
+Oligoarticular Juvenile Idiopathic Arthritis,1
+Myocardial Fibrosis,1
+Grover's Disease,1
+Glottic Carcinoma,1
+Mitral Valve Prolapse,1
+Idiopathic Pulmonary Fibrosis;Non-Specific Interstitial Pneumonia,1
+Esophageal Small Cell Carcinoma,1
+Alopecia Areata,1
+Secondary Glioma,1
+Opioid Use Disorder,1
+Chronic Cutaneous Lupus Erythematosus,1
+Pnsc-Derived Subcutaneous Tumors,1
+Arthritis-Associated Interstitial Diseases,1
+Supraglottic Carcinoma,1
+Transglottic Carcinoma,1
+Malignant Tumor of Floor of Mouth,1
+Carcinoma of The Retromolar Trigonu,1
+Pharyngeal Carcinoma,1
+Soft Palate Carcinoma,1
+Multiple Symmetric Lipomatosis,1
+Obesity;Stroke,1
+Endocrine Tumor,1
+Idiopathic Parkinsonism Or Parkinson's Disease,1
+Tendon Injury,1
+Childhood Gliosarcoma,1
+Tangier Disease,1
+ICF-specific DNMT3B dysfunction,1
+Gastroesophageal Junction Adenocarcinoma,1
+Hirschsprung Disease,1
+Congenital Pseudoarthrosis of The Limbs,1
+Double Hit Lymphoma,1
+Usual Interstitial Pneumonia,1
+Autoimmune Pulmonary Alveolar Proteinosis,1
+Primary Carcinoma,1
+Childhood Onset,1
+Severe Fever With Thrombocytopenia Syndrome Banyangvirus,1
+Unipolar Depression,1
+Colorectal Tumor,1
+Koolen De Vries Syndrome,1
+Ruptured Aneurysm,1
+Sporadic Basal-Like Cancers,1
+Invasive Ductal Carcinoma,1
+Uterine Leiomyosarcoma,1
+Primary Leiomyosarcoma,1
+Persistent Polyclonal B-Cell Lymphocytosis,1
+Cardiac Hypertrophy,1
+Ductal Breast Carcinoma,1
+Pleomorphic Adenoma Carcinoma,1
+Latent Autoimmune Diabetes In Adults,1
+Metastatic Colorectal Cancer,1
+5Q-Syndrome,1
+Epithelial Ovarian Cancer,1
+High Grade Glioblastoma,1
+Cutaneous Sarcoidosis,1
+Cushing Syndrome,1
+Malignant Peripheral Nerve Sheath Tumor,1
+Kufs Disease,1
+Sicca,1
+Neurodevelopmental Disorder,1
+End-Stage Renal Disease,1
+Descending Thoracic Aorta Aneurysm,1
+Dilated Cardiomyopathy;Heart Failure,1
+Pterygium,1
+Dementia With Lewy Bodies,1
+Muckle-Wells Syndrome,1
+IgG4-Related Disease,1
+Primary Immunoglobulin A Nephropathy (Disorder),1
+Mucinous Carcinoma,1
+Hemorrhagic Fever With Renal Syndrome,1
+CTBP1 Mutations,1
+Food Allergy,1
+B-Cell Chronic Lymphocytic Leukemia,1
+Acromegaly,1
+Disrupted-In-Schizophrenia-1,1
+Echinococcosis,1
+High Grade Serous Carcinoma,1
+Tay-Sachs Disease,1
+Tay-Sachs Disease; Juvenile,1
+Chagas Disease,1
+Radiologically Isolated Syndrom,1
+High Grade Ovarian Serous Carcinoma,1
+Ossification of Ligamentun Flavum(Olf),1
+Chilblains,1
+Septicemia,1
+Recurrent Implantation Failure,1
+Acute Decompensation,1
+Meckel Syndrome,1
+Dilated Cardiomyopathy With Ataxia,1
+Alport Syndrome,1
+Chronic Atrophic Gastritis,1
+Early Gastric Cancer,1
+Acute Megakaryoblastic Leukemia,1
+Intestinal Graft Versus Host Disease,1
+Myotonic Dystrophy 1,1
+Cavernous Angioma With Symptomatic Hemorrhage,1
+Diffuse Cutaneous Systemic Sclerosis,1
+Oral Leukoplakia,1
+Single Ventricle,1
+Peripheral T-Cell Lymphoma,1
+Sickle Cell-Beta-Thalassemia Disease Syndrome,1
+Acute Ischemic Heart Disease,1
+Coccidiosis Granuloma,1
+Tuberculosis Granuloma,1
+Glycogen Storage Disease,1

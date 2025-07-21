@@ -1,0 +1,609 @@
+disease_name,relation,metric,k,recall_txgnn,recall_1,seed
+long QT syndrome,contraindication,recall_at_k,100,0.21487603305785125,0.4462809917355372,1
+atopic eczema,contraindication,recall_at_k,100,0.1,0.7,1
+postmenopausal osteoporosis,contraindication,recall_at_k,100,0.12244897959183673,0.30612244897959184,1
+autoimmune hemolytic anemia,contraindication,recall_at_k,100,0.5,0.5,1
+parapsoriasis,contraindication,recall_at_k,100,0.25,0.5,1
+acute respiratory distress syndrome,contraindication,recall_at_k,100,0.0,0.75,1
+osteitis fibrosa,contraindication,recall_at_k,100,0.16923076923076924,0.26153846153846155,1
+monogenic obesity,contraindication,recall_at_k,100,0.23255813953488372,0.6395348837209303,1
+hereditary breast ovarian cancer syndrome,contraindication,recall_at_k,100,0.8461538461538461,1.0,1
+ovarian mucinous adenocarcinoma,contraindication,recall_at_k,100,0.8461538461538461,1.0,1
+retinal artery occlusion,contraindication,recall_at_k,100,0.0,0.5161290322580645,1
+adult-onset myasthenia gravis,contraindication,recall_at_k,100,0.27049180327868855,0.47540983606557374,1
+phaeochromocytoma,contraindication,recall_at_k,100,0.26666666666666666,1.0,1
+leukopenia,contraindication,recall_at_k,100,0.02857142857142857,0.2857142857142857,1
+urinary bladder carcinoma,contraindication,recall_at_k,100,0.0,1.0,1
+polycythemia (disease),contraindication,recall_at_k,100,0.0,1.0,1
+Horner syndrome,contraindication,recall_at_k,100,0.4166666666666667,0.6666666666666666,1
+peripheral arterial disease,contraindication,recall_at_k,100,0.03225806451612903,0.7419354838709677,1
+pyruvate dehydrogenase E3 deficiency,contraindication,recall_at_k,100,0.45454545454545453,0.2727272727272727,1
+"hyperlipidemia, familial combined, LPL related",contraindication,recall_at_k,100,0.0,1.0,1
+cystoid macular edema,contraindication,recall_at_k,100,0.0,1.0,1
+pancytopenia,contraindication,recall_at_k,100,0.2777777777777778,0.6111111111111112,1
+Pick disease,contraindication,recall_at_k,100,0.5925925925925926,0.7407407407407407,1
+cystic fibrosis,contraindication,recall_at_k,100,0.1111111111111111,0.6666666666666666,1
+chronic renal failure syndrome,contraindication,recall_at_k,100,0.10416666666666667,1.0,1
+pituitary cancer,contraindication,recall_at_k,100,0.0,1.0,1
+diabetic retinopathy,contraindication,recall_at_k,100,0.1,0.9,1
+duodenitis,contraindication,recall_at_k,100,0.42857142857142855,0.14285714285714285,1
+cerebral artery occlusion,contraindication,recall_at_k,100,0.0,0.6666666666666666,1
+myotonia congenita,contraindication,recall_at_k,100,0.09090909090909091,0.13636363636363635,1
+vulvovaginal candidiasis,contraindication,recall_at_k,100,0.0,1.0,1
+drug-induced akathisia,contraindication,recall_at_k,100,0.3333333333333333,0.6666666666666666,1
+aplastic anemia,contraindication,recall_at_k,100,0.32,0.96,1
+acute intermittent porphyria,contraindication,recall_at_k,100,0.25,0.4166666666666667,1
+Hirschsprung disease-ganglioneuroblastoma syndrome,contraindication,recall_at_k,100,0.6666666666666666,1.0,1
+short bowel syndrome,contraindication,recall_at_k,100,0.0,0.5,1
+"attention deficit hyperactivity disorder, inattentive type",contraindication,recall_at_k,100,0.0,1.0,1
+vasculitis,contraindication,recall_at_k,100,0.0,0.3333333333333333,1
+progressive multifocal leukoencephalopathy,contraindication,recall_at_k,100,0.2,0.8,1
+mild pre-eclampsia,contraindication,recall_at_k,100,0.0,1.0,1
+polycythemia,contraindication,recall_at_k,100,0.0,1.0,1
+epiglottitis,contraindication,recall_at_k,100,0.0,1.0,1
+breast adenosis,contraindication,recall_at_k,100,0.5,1.0,1
+scotoma (disease),contraindication,recall_at_k,100,0.0,0.6666666666666666,1
+embryonal carcinoma,contraindication,recall_at_k,100,1.0,1.0,1
+diffuse astrocytoma,contraindication,recall_at_k,100,1.0,1.0,1
+bacterial infectious disease with sepsis,contraindication,recall_at_k,100,0.0,0.0,1
+anus disease,contraindication,recall_at_k,100,0.0,0.0,1
+myocarditis,contraindication,recall_at_k,100,0.0,0.5,1
+purulent otitis media,contraindication,recall_at_k,100,0.0,0.0,1
+obsolete left bundle branch block,contraindication,recall_at_k,100,0.0,1.0,1
+calciphylaxis cutis,contraindication,recall_at_k,100,1.0,1.0,1
+distal myopathy with posterior leg and anterior hand involvement,contraindication,recall_at_k,100,1.0,1.0,1
+minimal pigment oculocutaneous albinism type 1,contraindication,recall_at_k,100,1.0,1.0,1
+inherited lipid metabolism disorder,contraindication,recall_at_k,100,0.0,0.0,1
+splenic disease,contraindication,recall_at_k,100,0.0,1.0,1
+sinoatrial block,contraindication,recall_at_k,100,0.0,1.0,1
+tinea pedis,indication,recall_at_k,100,0.9166666666666666,1.0,1
+tenosynovitis,indication,recall_at_k,100,0.9090909090909091,1.0,1
+atopic eczema,indication,recall_at_k,100,0.5,0.875,1
+postmenopausal osteoporosis,indication,recall_at_k,100,0.21875,0.96875,1
+autoimmune hemolytic anemia,indication,recall_at_k,100,0.2222222222222222,1.0,1
+parapsoriasis,indication,recall_at_k,100,0.5294117647058824,0.8823529411764706,1
+acute respiratory distress syndrome,indication,recall_at_k,100,1.0,0.14285714285714285,1
+typhoid fever,indication,recall_at_k,100,1.0,1.0,1
+osteitis fibrosa,indication,recall_at_k,100,0.0,1.0,1
+monogenic obesity,indication,recall_at_k,100,0.05,0.95,1
+hereditary breast ovarian cancer syndrome,indication,recall_at_k,100,0.11764705882352941,1.0,1
+ovarian mucinous adenocarcinoma,indication,recall_at_k,100,1.0,1.0,1
+Lennox-Gastaut syndrome,indication,recall_at_k,100,0.0,1.0,1
+adult-onset myasthenia gravis,indication,recall_at_k,100,0.5,1.0,1
+phaeochromocytoma,indication,recall_at_k,100,0.6666666666666666,1.0,1
+acute myeloid leukemia with CEBPA somatic mutations,indication,recall_at_k,100,1.0,1.0,1
+testicular teratoma,indication,recall_at_k,100,1.0,1.0,1
+urinary bladder carcinoma,indication,recall_at_k,100,1.0,1.0,1
+polycythemia (disease),indication,recall_at_k,100,0.4,0.6,1
+peripheral arterial disease,indication,recall_at_k,100,0.2,0.8,1
+"hyperlipidemia, familial combined, LPL related",indication,recall_at_k,100,0.0,1.0,1
+cystic fibrosis,indication,recall_at_k,100,0.0,0.2,1
+pityriasis versicolor,indication,recall_at_k,100,0.6666666666666666,0.8,1
+diabetic retinopathy,indication,recall_at_k,100,0.0,1.0,1
+Pick disease,indication,recall_at_k,100,0.5714285714285714,1.0,1
+milker's nodule,indication,recall_at_k,100,1.0,1.0,1
+myotonia congenita,indication,recall_at_k,100,0.0,0.0,1
+vulvovaginal candidiasis,indication,recall_at_k,100,0.3,0.4,1
+retinal artery occlusion,indication,recall_at_k,100,0.0,0.3333333333333333,1
+postencephalitic Parkinson disease,indication,recall_at_k,100,1.0,1.0,1
+aplastic anemia,indication,recall_at_k,100,1.0,1.0,1
+acute intermittent porphyria,indication,recall_at_k,100,0.0,0.0,1
+pregnancy disorder with abortive outcome,indication,recall_at_k,100,0.0,0.25,1
+chronic cutaneous lupus erythematosus,indication,recall_at_k,100,0.6,1.0,1
+short bowel syndrome,indication,recall_at_k,100,0.0,0.0,1
+hyperpituitarism,indication,recall_at_k,100,0.2,0.8,1
+"attention deficit hyperactivity disorder, inattentive type",indication,recall_at_k,100,0.45454545454545453,1.0,1
+miliary tuberculosis,indication,recall_at_k,100,0.0,0.6666666666666666,1
+multifocal atrial tachycardia (disease),indication,recall_at_k,100,0.5,1.0,1
+cyanide poisoning,indication,recall_at_k,100,0.3333333333333333,0.0,1
+syphilis,indication,recall_at_k,100,1.0,1.0,1
+gastrin secretion abnormality,indication,recall_at_k,100,0.0,1.0,1
+keratinization disease,indication,recall_at_k,100,0.0,0.3333333333333333,1
+mild pre-eclampsia,indication,recall_at_k,100,0.0,1.0,1
+epiglottitis,indication,recall_at_k,100,0.0,1.0,1
+mature T-cell and NK-cell non-Hodgkin lymphoma,indication,recall_at_k,100,0.75,1.0,1
+"peripheral T-cell lymphoma, not otherwise specified",indication,recall_at_k,100,0.75,1.0,1
+Zygomycosis,indication,recall_at_k,100,0.0,1.0,1
+listeriosis,indication,recall_at_k,100,1.0,1.0,1
+endemic goiter,indication,recall_at_k,100,0.0,1.0,1
+congenital toxoplasmosis,indication,recall_at_k,100,0.0,1.0,1
+severe early-childhood-onset retinal dystrophy,indication,recall_at_k,100,1.0,1.0,1
+embryonal carcinoma,indication,recall_at_k,100,1.0,1.0,1
+diffuse astrocytoma,indication,recall_at_k,100,1.0,1.0,1
+diffuse large B-cell lymphoma of the central nervous system,indication,recall_at_k,100,1.0,1.0,1
+neonatal intrahepatic cholestasis due to citrin deficiency,indication,recall_at_k,100,0.5,1.0,1
+wound botulism,indication,recall_at_k,100,1.0,1.0,1
+congenital syphilis,indication,recall_at_k,100,1.0,1.0,1
+pasteurellosis,indication,recall_at_k,100,0.0,1.0,1
+bejel,indication,recall_at_k,100,1.0,1.0,1
+primary motor cortex epilepsy,indication,recall_at_k,100,0.5,1.0,1
+cysticercosis,indication,recall_at_k,100,0.0,1.0,1
+gonadal dysgenesis,indication,recall_at_k,100,0.0,1.0,1
+laryngotracheal angioma,indication,recall_at_k,100,1.0,1.0,1
+"blast phase chronic myelogenous leukemia, BCR-ABL1 positive",indication,recall_at_k,100,0.3333333333333333,1.0,1
+non-infectious uveitis,indication,recall_at_k,100,0.0,0.0,1
+hemophagocytic syndrome,indication,recall_at_k,100,0.0,1.0,1
+tuberous sclerosis,indication,recall_at_k,100,1.0,1.0,1
+dermatofibrosarcoma protuberans,indication,recall_at_k,100,0.0,1.0,1
+degeneration of macula and posterior pole,indication,recall_at_k,100,0.0,1.0,1
+syndromic dyslipidemia,indication,recall_at_k,100,0.0,1.0,1
+liver failure,contraindication,recall_at_k,100,0.003663003663003663,0.2271062271062271,2
+epidermodysplasia verruciformis,contraindication,recall_at_k,100,0.0,1.0,2
+short stature due to growth hormone qualitative anomaly,contraindication,recall_at_k,100,0.2,1.0,2
+acquired pituitary hormone deficiency,contraindication,recall_at_k,100,0.2,1.0,2
+renin-angiotensin-aldosterone system-blocker-induced angioedema,contraindication,recall_at_k,100,0.0,1.0,2
+familial nephrotic syndrome,contraindication,recall_at_k,100,0.0,0.4444444444444444,2
+connective tissue disease,contraindication,recall_at_k,100,0.0,0.3,2
+thrombophlebitis,contraindication,recall_at_k,100,0.02564102564102564,0.8461538461538461,2
+malignant non-dysgerminomatous germ cell tumor of ovary,contraindication,recall_at_k,100,0.19230769230769232,1.0,2
+papilledema,contraindication,recall_at_k,100,0.0,0.25,2
+ocular hypertension,contraindication,recall_at_k,100,0.023809523809523808,0.47619047619047616,2
+malignant hyperthermia of anesthesia,contraindication,recall_at_k,100,0.125,0.0,2
+exercise-induced malignant hyperthermia,contraindication,recall_at_k,100,0.0,0.125,2
+drug-induced liver injury,contraindication,recall_at_k,100,0.0,0.08108108108108109,2
+sclerosing cholangitis,contraindication,recall_at_k,100,0.0,1.0,2
+skin carcinoma,contraindication,recall_at_k,100,0.0,1.0,2
+congenital prothrombin deficiency,contraindication,recall_at_k,100,0.0196078431372549,0.5490196078431373,2
+pancytopenia,contraindication,recall_at_k,100,0.1111111111111111,0.7777777777777778,2
+alcohol withdrawal delirium,contraindication,recall_at_k,100,0.0,0.6571428571428571,2
+vision disorder,contraindication,recall_at_k,100,0.0,0.45454545454545453,2
+blindness (disorder),contraindication,recall_at_k,100,0.0,0.2727272727272727,2
+placental abruption (disease),contraindication,recall_at_k,100,0.0,0.0,2
+obsolete heart block,contraindication,recall_at_k,100,0.09090909090909091,0.18181818181818182,2
+dyskinesia of esophagus,contraindication,recall_at_k,100,0.0,0.08571428571428572,2
+chronic Epstein-Barr virus infection syndrome,contraindication,recall_at_k,100,0.0,0.16,2
+X-linked spasticity-intellectual disability-epilepsy syndrome,contraindication,recall_at_k,100,0.0,1.0,2
+localized scleroderma,contraindication,recall_at_k,100,0.0,0.0,2
+pneumothorax (disease),contraindication,recall_at_k,100,0.0,1.0,2
+mitral valve stenosis,contraindication,recall_at_k,100,0.0,1.0,2
+IgG4-related retroperitoneal fibrosis,contraindication,recall_at_k,100,0.0,0.6,2
+megaloblastic anemia (disease),contraindication,recall_at_k,100,0.4,0.2,2
+bacterial vaginosis,contraindication,recall_at_k,100,0.0,1.0,2
+tic disorder,contraindication,recall_at_k,100,0.0,1.0,2
+colonic neoplasm,contraindication,recall_at_k,100,0.0,1.0,2
+anaplastic oligodendroglioma,contraindication,recall_at_k,100,0.0,1.0,2
+bacterial infectious disease with sepsis,contraindication,recall_at_k,100,0.0,0.0,2
+motor nerve neuritis,contraindication,recall_at_k,100,0.0,1.0,2
+autosomal recessive infantile hypercalcemia,contraindication,recall_at_k,100,0.3333333333333333,1.0,2
+familial hypocalciuric hypercalcemia,contraindication,recall_at_k,100,0.0,1.0,2
+calciphylaxis cutis,contraindication,recall_at_k,100,0.0,1.0,2
+ichthyosis (disease),contraindication,recall_at_k,100,0.3333333333333333,1.0,2
+anti-glomerular basement membrane disease,contraindication,recall_at_k,100,0.0,0.6666666666666666,2
+succinic semialdehyde dehydrogenase deficiency,contraindication,recall_at_k,100,0.0,0.0,2
+autosomal dominant aplasia and myelodysplasia,contraindication,recall_at_k,100,0.2,1.0,2
+central nervous system cancer,contraindication,recall_at_k,100,0.0,1.0,2
+Miyoshi myopathy,contraindication,recall_at_k,100,1.0,1.0,2
+symptomatic form of hemophilia in female carriers,contraindication,recall_at_k,100,0.0,0.14285714285714285,2
+anterior ischemic optic neuropathy,contraindication,recall_at_k,100,0.0,0.0,2
+conjunctivitis,contraindication,recall_at_k,100,0.0,0.0,2
+intracranial thrombosis,contraindication,recall_at_k,100,0.0,1.0,2
+epidermodysplasia verruciformis,indication,recall_at_k,100,0.0,1.0,2
+epilepsy with generalized tonic-clonic seizures,indication,recall_at_k,100,0.0,0.875,2
+short stature due to growth hormone qualitative anomaly,indication,recall_at_k,100,0.0,1.0,2
+acquired pituitary hormone deficiency,indication,recall_at_k,100,0.0,1.0,2
+renin-angiotensin-aldosterone system-blocker-induced angioedema,indication,recall_at_k,100,0.08333333333333333,0.8333333333333334,2
+bursitis,indication,recall_at_k,100,0.0,0.9166666666666666,2
+familial nephrotic syndrome,indication,recall_at_k,100,0.0,0.9,2
+malignant non-dysgerminomatous germ cell tumor of ovary,indication,recall_at_k,100,0.0,1.0,2
+metastasis from malignant tumor of colon,indication,recall_at_k,100,0.16666666666666666,0.8333333333333334,2
+ocular hypertension,indication,recall_at_k,100,0.0,0.5454545454545454,2
+malignant hyperthermia of anesthesia,indication,recall_at_k,100,1.0,0.0,2
+exercise-induced malignant hyperthermia,indication,recall_at_k,100,1.0,0.0,2
+inhalational anthrax,indication,recall_at_k,100,0.8,0.8,2
+sclerosing cholangitis,indication,recall_at_k,100,0.0,0.5,2
+skin carcinoma,indication,recall_at_k,100,1.0,1.0,2
+myiasis,indication,recall_at_k,100,0.0,1.0,2
+testicular germ cell tumor,indication,recall_at_k,100,0.0,1.0,2
+congenital prothrombin deficiency,indication,recall_at_k,100,0.0,1.0,2
+papillary conjunctivitis,indication,recall_at_k,100,0.0,0.3064516129032258,2
+alcohol withdrawal delirium,indication,recall_at_k,100,0.0,1.0,2
+obsolete vascular headache,indication,recall_at_k,100,0.0,1.0,2
+female infertility,indication,recall_at_k,100,1.0,1.0,2
+developmental and epileptic encephalopathy,indication,recall_at_k,100,0.3333333333333333,1.0,2
+localized scleroderma,indication,recall_at_k,100,0.0,1.0,2
+necrotizing ulcerative gingivitis,indication,recall_at_k,100,0.1111111111111111,0.8888888888888888,2
+cowpox,indication,recall_at_k,100,0.0,1.0,2
+candidemia,indication,recall_at_k,100,0.42857142857142855,1.0,2
+otitis externa,indication,recall_at_k,100,0.15384615384615385,0.9230769230769231,2
+conjunctivitis,indication,recall_at_k,100,0.0,0.88,2
+Klebsiella pneumonia,indication,recall_at_k,100,0.0,1.0,2
+obsolete atrophic vulva,indication,recall_at_k,100,0.0,1.0,2
+epicondylitis,indication,recall_at_k,100,0.0,1.0,2
+multifocal atrial tachycardia (disease),indication,recall_at_k,100,0.0,1.0,2
+cytomegalovirus retinitis,indication,recall_at_k,100,0.0,1.0,2
+megaloblastic anemia (disease),indication,recall_at_k,100,0.0,0.0,2
+bacterial vaginosis,indication,recall_at_k,100,0.625,1.0,2
+precocious puberty,indication,recall_at_k,100,0.0,1.0,2
+trisomy 13,indication,recall_at_k,100,0.0,0.4,2
+atypical coarctation of aorta,indication,recall_at_k,100,0.0,1.0,2
+human African trypanosomiasis,indication,recall_at_k,100,0.0,0.75,2
+colonic neoplasm,indication,recall_at_k,100,0.4,1.0,2
+furunculosis,indication,recall_at_k,100,0.0,1.0,2
+thyroid gland undifferentiated (anaplastic) carcinoma,indication,recall_at_k,100,0.0,1.0,2
+anaplastic oligodendroglioma,indication,recall_at_k,100,0.0,1.0,2
+neonatal intrahepatic cholestasis due to citrin deficiency,indication,recall_at_k,100,0.0,1.0,2
+foodborne botulism,indication,recall_at_k,100,1.0,1.0,2
+lung abscess (disease),indication,recall_at_k,100,0.6666666666666666,1.0,2
+binge eating disorder,indication,recall_at_k,100,0.0,1.0,2
+mite infestation,indication,recall_at_k,100,0.0,0.6,2
+Huntington disease-like,indication,recall_at_k,100,1.0,1.0,2
+mixed anxiety and depressive disorder,indication,recall_at_k,100,0.2,0.8,2
+paroxysmal Hemicrania,indication,recall_at_k,100,0.0,1.0,2
+primary motor cortex epilepsy,indication,recall_at_k,100,0.0,1.0,2
+rhabdomyosarcoma (disease),indication,recall_at_k,100,0.0,1.0,2
+nicotine dependence,indication,recall_at_k,100,0.0,0.5,2
+breast cancer,indication,recall_at_k,100,0.0,1.0,2
+retinoblastoma,indication,recall_at_k,100,0.0,1.0,2
+salpingitis,indication,recall_at_k,100,0.0,1.0,2
+symptomatic form of hemophilia in female carriers,indication,recall_at_k,100,0.9285714285714286,0.8571428571428571,2
+acute cystitis (disease),indication,recall_at_k,100,0.0,0.0,2
+congenital combined immunodeficiency,indication,recall_at_k,100,1.0,1.0,2
+lysosomal lipid storage disorder,indication,recall_at_k,100,1.0,1.0,2
+acute lung injury,indication,recall_at_k,100,0.0,0.0,2
+penile cancer,indication,recall_at_k,100,0.0,1.0,2
+inflammatory bowel disease,contraindication,recall_at_k,100,0.008333333333333333,0.125,3
+pemphigus,contraindication,recall_at_k,100,0.0,1.0,3
+atopic eczema,contraindication,recall_at_k,100,0.0,0.7,3
+adrenal insufficiency,contraindication,recall_at_k,100,0.1232876712328767,0.9863013698630136,3
+localized pagetoid reticulosis,contraindication,recall_at_k,100,0.0,0.5,3
+granulomatous slack skin disease,contraindication,recall_at_k,100,0.0,1.0,3
+neonatal jaundice,contraindication,recall_at_k,100,0.029411764705882353,0.14705882352941177,3
+blood coagulation disease,contraindication,recall_at_k,100,0.013793103448275862,0.2413793103448276,3
+prostate carcinoma,contraindication,recall_at_k,100,0.0,1.0,3
+seborrheic dermatitis,contraindication,recall_at_k,100,0.0,1.0,3
+hyperphosphatemia (disease),contraindication,recall_at_k,100,0.03225806451612903,0.8064516129032258,3
+hemolytic-uremic syndrome,contraindication,recall_at_k,100,0.0,0.2,3
+autonomic nervous system disease,contraindication,recall_at_k,100,0.0,0.4166666666666667,3
+gastric cancer,contraindication,recall_at_k,100,0.0,1.0,3
+intracranial hypertension,contraindication,recall_at_k,100,0.043478260869565216,0.6231884057971014,3
+pituitary gland adenoma,contraindication,recall_at_k,100,1.0,1.0,3
+infective endocarditis,contraindication,recall_at_k,100,0.0,1.0,3
+periodontitis,contraindication,recall_at_k,100,0.2,0.8,3
+esophageal disease,contraindication,recall_at_k,100,0.0,1.0,3
+isolated tracheo-esophageal fistula,contraindication,recall_at_k,100,0.0,1.0,3
+familial sick sinus syndrome,contraindication,recall_at_k,100,0.0,0.8571428571428571,3
+localized scleroderma,contraindication,recall_at_k,100,0.0,0.0,3
+Rowell syndrome,contraindication,recall_at_k,100,0.0,0.5555555555555556,3
+coccidioidomycosis,contraindication,recall_at_k,100,0.0,1.0,3
+inborn disorder of porphyrin metabolism,contraindication,recall_at_k,100,0.5,1.0,3
+metabolic syndrome,contraindication,recall_at_k,100,0.0,1.0,3
+lower respiratory tract disease,contraindication,recall_at_k,100,0.0,0.8888888888888888,3
+Hirschsprung disease-deafness-polydactyly syndrome,contraindication,recall_at_k,100,0.3333333333333333,1.0,3
+primary biliary cholangitis,contraindication,recall_at_k,100,0.0,0.4,3
+congenital heart disease,contraindication,recall_at_k,100,0.0,0.5,3
+scurvy,contraindication,recall_at_k,100,0.0,1.0,3
+torsion dystonia,contraindication,recall_at_k,100,0.4,1.0,3
+tic disorder,contraindication,recall_at_k,100,0.0,1.0,3
+meningitis (disease),contraindication,recall_at_k,100,0.0,1.0,3
+angiocentric glioma,contraindication,recall_at_k,100,0.0,1.0,3
+renal osteodystrophy,contraindication,recall_at_k,100,0.0,1.0,3
+primary central nervous system lymphoma,contraindication,recall_at_k,100,0.0,1.0,3
+neuromuscular disease,contraindication,recall_at_k,100,0.0,1.0,3
+hyperostosis,contraindication,recall_at_k,100,0.0,0.0,3
+amblyopia (disease),contraindication,recall_at_k,100,0.0,0.5,3
+peliosis hepatis,contraindication,recall_at_k,100,0.0,0.3333333333333333,3
+bronchiolitis (disease),contraindication,recall_at_k,100,0.0,0.0,3
+Hoyeraal-Hreidarsson syndrome,contraindication,recall_at_k,100,0.2,1.0,3
+central nervous system neoplasm,contraindication,recall_at_k,100,0.0,1.0,3
+limb-girdle muscular dystrophy,contraindication,recall_at_k,100,1.0,1.0,3
+acute undifferentiated leukemia,contraindication,recall_at_k,100,0.5,1.0,3
+Griscelli syndrome,contraindication,recall_at_k,100,1.0,1.0,3
+chorioamnionitis,contraindication,recall_at_k,100,0.0,0.0,3
+ischemic bowel disease,contraindication,recall_at_k,100,0.0,0.2857142857142857,3
+adult acute respiratory distress syndrome,contraindication,recall_at_k,100,0.0,1.0,3
+pyuria (disease),contraindication,recall_at_k,100,0.0,0.0,3
+ichthyosis linearis circumflexa,contraindication,recall_at_k,100,0.0,0.5,3
+ligneous conjunctivitis,contraindication,recall_at_k,100,0.0,1.0,3
+restless legs syndrome,indication,recall_at_k,100,0.0,0.4,3
+inflammatory bowel disease,indication,recall_at_k,100,0.0,0.9090909090909091,3
+pemphigus,indication,recall_at_k,100,0.0,0.8181818181818182,3
+atopic eczema,indication,recall_at_k,100,0.03125,0.9375,3
+adrenal insufficiency,indication,recall_at_k,100,0.0,1.0,3
+ankylosing spondylitis,indication,recall_at_k,100,0.043478260869565216,0.9565217391304348,3
+localized pagetoid reticulosis,indication,recall_at_k,100,0.0,1.0,3
+granulomatous slack skin disease,indication,recall_at_k,100,0.0,0.7857142857142857,3
+primary ovarian failure,indication,recall_at_k,100,0.0,1.0,3
+prostate carcinoma,indication,recall_at_k,100,0.0,1.0,3
+non-small cell lung carcinoma (disease),indication,recall_at_k,100,0.047619047619047616,0.9047619047619048,3
+pancreatic adenocarcinoma,indication,recall_at_k,100,0.0,0.8,3
+Lennox-Gastaut syndrome,indication,recall_at_k,100,0.08333333333333333,1.0,3
+seborrheic dermatitis,indication,recall_at_k,100,0.0,0.9393939393939394,3
+hyperphosphatemia (disease),indication,recall_at_k,100,0.0,0.0,3
+acute myeloid leukemia with CEBPA somatic mutations,indication,recall_at_k,100,0.35294117647058826,1.0,3
+testicular seminoma,indication,recall_at_k,100,0.25,1.0,3
+testicular teratoma,indication,recall_at_k,100,0.0,1.0,3
+head and neck cancer,indication,recall_at_k,100,0.0,1.0,3
+primary myelofibrosis,indication,recall_at_k,100,0.0,1.0,3
+dyspepsia,indication,recall_at_k,100,0.0,0.29411764705882354,3
+gastric cancer,indication,recall_at_k,100,0.0,1.0,3
+phobic disorder,indication,recall_at_k,100,0.0,1.0,3
+intracranial hypertension,indication,recall_at_k,100,0.0,1.0,3
+staphylococcus aureus infection,indication,recall_at_k,100,0.0,1.0,3
+streptococcal pneumonia,indication,recall_at_k,100,0.10204081632653061,0.8979591836734694,3
+periodontitis,indication,recall_at_k,100,0.0,1.0,3
+osteoarthritis,indication,recall_at_k,100,0.13513513513513514,0.972972972972973,3
+pulmonary arterial hypertension,indication,recall_at_k,100,0.09090909090909091,1.0,3
+esophageal disease,indication,recall_at_k,100,0.0,0.0,3
+bruxism (disease),indication,recall_at_k,100,0.0,0.0,3
+localized scleroderma,indication,recall_at_k,100,0.0,1.0,3
+Cryptococcal meningitis,indication,recall_at_k,100,0.0,1.0,3
+coccidioidomycosis,indication,recall_at_k,100,0.0,1.0,3
+renal cell carcinoma (disease),indication,recall_at_k,100,0.6363636363636364,1.0,3
+pregnancy disorder with abortive outcome,indication,recall_at_k,100,0.0,0.0,3
+obsolete atrophic vulva,indication,recall_at_k,100,0.0,1.0,3
+lichen disease,indication,recall_at_k,100,0.0,0.8421052631578947,3
+primary biliary cholangitis,indication,recall_at_k,100,0.0,1.0,3
+scurvy,indication,recall_at_k,100,0.0,1.0,3
+granuloma inguinale,indication,recall_at_k,100,0.0,1.0,3
+ovarian epithelial tumor,indication,recall_at_k,100,0.0,1.0,3
+meningitis (disease),indication,recall_at_k,100,0.0,1.0,3
+angiocentric glioma,indication,recall_at_k,100,0.0,1.0,3
+primary central nervous system lymphoma,indication,recall_at_k,100,0.0,1.0,3
+primary mediastinal large B-cell lymphoma,indication,recall_at_k,100,0.0,1.0,3
+intravascular large B-cell lymphoma,indication,recall_at_k,100,0.0,1.0,3
+renal osteodystrophy,indication,recall_at_k,100,0.0,1.0,3
+foodborne botulism,indication,recall_at_k,100,0.0,1.0,3
+"factor XIII, A subunit, deficiency",indication,recall_at_k,100,1.0,1.0,3
+postherpetic neuralgia,indication,recall_at_k,100,0.2,0.8,3
+mite infestation,indication,recall_at_k,100,0.0,0.8,3
+Huntington disease-like,indication,recall_at_k,100,1.0,1.0,3
+Wilms tumor,indication,recall_at_k,100,0.0,1.0,3
+necrobiosis lipoidica,indication,recall_at_k,100,0.0,1.0,3
+postpartum depression,indication,recall_at_k,100,0.0,0.0,3
+cavernous hemangiomas of face-supraumbilical midline raphe syndrome,indication,recall_at_k,100,1.0,1.0,3
+tufted angioma (disease),indication,recall_at_k,100,1.0,1.0,3
+retiform hemangioendothelioma,indication,recall_at_k,100,0.0,1.0,3
+placental hemangioma,indication,recall_at_k,100,1.0,1.0,3
+hereditary breast carcinoma,indication,recall_at_k,100,0.0,1.0,3
+Dravet syndrome,indication,recall_at_k,100,0.0,1.0,3
+Hurler-Scheie syndrome,indication,recall_at_k,100,0.0,1.0,3
+dermatofibrosarcoma protuberans,indication,recall_at_k,100,0.0,1.0,3
+autism (disease),indication,recall_at_k,100,0.0,0.0,3
+fungal meningitis,indication,recall_at_k,100,0.0,1.0,3
+porphyria,contraindication,recall_at_k,100,0.0,0.49557522123893805,4
+non-acquired pituitary hormone deficiency,contraindication,recall_at_k,100,0.4,1.0,4
+adrenocortical insufficiency,contraindication,recall_at_k,100,0.11504424778761062,0.6814159292035398,4
+hypothyroidism,contraindication,recall_at_k,100,0.025423728813559324,0.4406779661016949,4
+tuberculosis,contraindication,recall_at_k,100,0.0,0.875,4
+occupational dermatitis,contraindication,recall_at_k,100,0.0,0.5,4
+psychotic disorder,contraindication,recall_at_k,100,0.0,0.6842105263157895,4
+adrenal insufficiency,contraindication,recall_at_k,100,0.136986301369863,0.9863013698630136,4
+localized pagetoid reticulosis,contraindication,recall_at_k,100,0.5,1.0,4
+tendinitis,contraindication,recall_at_k,100,0.0,1.0,4
+infectious disease,contraindication,recall_at_k,100,0.0,0.3559322033898305,4
+atrial fibrillation (disease),contraindication,recall_at_k,100,0.0,0.35714285714285715,4
+hereditary angioedema with C1Inh deficiency,contraindication,recall_at_k,100,0.11764705882352941,1.0,4
+hypotensive disorder,contraindication,recall_at_k,100,0.02512562814070352,0.17587939698492464,4
+connective tissue disease,contraindication,recall_at_k,100,0.0,0.45,4
+renal artery obstruction,contraindication,recall_at_k,100,0.0,0.16666666666666666,4
+congenital central hypoventilation syndrome,contraindication,recall_at_k,100,0.0,0.9538461538461539,4
+nephrolithiasis susceptibility caused by SLC26A1,contraindication,recall_at_k,100,0.03076923076923077,0.36923076923076925,4
+galactosemia,contraindication,recall_at_k,100,0.1320754716981132,0.22641509433962265,4
+chronic primary adrenal insufficiency,contraindication,recall_at_k,100,0.15492957746478872,1.0,4
+inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency,contraindication,recall_at_k,100,0.15492957746478872,1.0,4
+cholestasis,contraindication,recall_at_k,100,0.037037037037037035,0.18518518518518517,4
+butyrylcholinesterase deficiency,contraindication,recall_at_k,100,0.0,0.125,4
+sebaceous adenocarcinoma,contraindication,recall_at_k,100,0.0,1.0,4
+Horner syndrome,contraindication,recall_at_k,100,0.0,0.625,4
+brain cancer,contraindication,recall_at_k,100,0.0,1.0,4
+canker sore,contraindication,recall_at_k,100,0.0,0.5,4
+vaginal disease,contraindication,recall_at_k,100,0.0,0.0,4
+end stage renal failure,contraindication,recall_at_k,100,0.041666666666666664,0.9791666666666666,4
+duodenal obstruction,contraindication,recall_at_k,100,0.0,1.0,4
+hemopericardium (disease),contraindication,recall_at_k,100,0.0,0.7,4
+valvar pulmonary stenosis,contraindication,recall_at_k,100,0.0,1.0,4
+epiglottitis,contraindication,recall_at_k,100,0.0,0.0,4
+breast adenosis,contraindication,recall_at_k,100,0.25,1.0,4
+colorectal cancer,contraindication,recall_at_k,100,0.0,1.0,4
+corneal pigmentation,contraindication,recall_at_k,100,0.0,0.8181818181818182,4
+high output heart failure,contraindication,recall_at_k,100,0.0,0.0,4
+infectious meningitis,contraindication,recall_at_k,100,0.0,1.0,4
+arachnoiditis,contraindication,recall_at_k,100,0.0,1.0,4
+AH amyloidosis,contraindication,recall_at_k,100,1.0,1.0,4
+narcissistic personality disorder,contraindication,recall_at_k,100,0.0,0.75,4
+purulent otitis media,contraindication,recall_at_k,100,0.0,0.5,4
+guttate psoriasis,contraindication,recall_at_k,100,0.0,1.0,4
+congenital stationary night blindness,contraindication,recall_at_k,100,0.0,1.0,4
+skin cancer,contraindication,recall_at_k,100,0.0,0.6666666666666666,4
+polyarteritis nodosa,contraindication,recall_at_k,100,0.0,1.0,4
+Shwachman-Diamond syndrome,contraindication,recall_at_k,100,0.0,1.0,4
+central nervous system cancer,contraindication,recall_at_k,100,0.0,1.0,4
+Bethlem myopathy,contraindication,recall_at_k,100,1.0,1.0,4
+MYH7-related late-onset scapuloperoneal muscular dystrophy,contraindication,recall_at_k,100,1.0,1.0,4
+acute leukemia (disease),contraindication,recall_at_k,100,0.0,1.0,4
+xeroderma pigmentosum-Cockayne syndrome complex,contraindication,recall_at_k,100,0.0,1.0,4
+kidney papillary necrosis,contraindication,recall_at_k,100,0.0,0.0,4
+acute papillary necrosis,contraindication,recall_at_k,100,0.0,0.0,4
+fibromyalgia,contraindication,recall_at_k,100,0.0,0.0,4
+intracranial thrombosis,contraindication,recall_at_k,100,0.0,1.0,4
+depersonalization disorder,contraindication,recall_at_k,100,0.0,1.0,4
+epilepsy with generalized tonic-clonic seizures,indication,recall_at_k,100,0.0,0.875,4
+non-acquired pituitary hormone deficiency,indication,recall_at_k,100,1.0,1.0,4
+adrenocortical insufficiency,indication,recall_at_k,100,0.0,0.4,4
+hypothyroidism,indication,recall_at_k,100,0.5,1.0,4
+occupational dermatitis,indication,recall_at_k,100,0.0,1.0,4
+psychotic disorder,indication,recall_at_k,100,0.0,1.0,4
+adrenal insufficiency,indication,recall_at_k,100,0.0,1.0,4
+enterobiasis,indication,recall_at_k,100,0.06666666666666667,0.5333333333333333,4
+localized pagetoid reticulosis,indication,recall_at_k,100,0.0,1.0,4
+tendinitis,indication,recall_at_k,100,0.0,1.0,4
+erythema multiforme,indication,recall_at_k,100,0.0,1.0,4
+atrial fibrillation (disease),indication,recall_at_k,100,0.07142857142857142,0.5714285714285714,4
+hereditary angioedema with C1Inh deficiency,indication,recall_at_k,100,0.0,1.0,4
+hypotensive disorder,indication,recall_at_k,100,0.14285714285714285,0.0,4
+chronic primary adrenal insufficiency,indication,recall_at_k,100,0.0,1.0,4
+inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency,indication,recall_at_k,100,0.0,1.0,4
+major depressive disorder,indication,recall_at_k,100,0.0,1.0,4
+cholestasis,indication,recall_at_k,100,0.0,0.0,4
+sebaceous adenocarcinoma,indication,recall_at_k,100,1.0,1.0,4
+acute myeloid leukemia with t(6;9)(p23;q34),indication,recall_at_k,100,0.5882352941176471,1.0,4
+testicular cancer,indication,recall_at_k,100,0.25,1.0,4
+squamous cell carcinoma of liver and intrahepatic biliary tract,indication,recall_at_k,100,0.0,1.0,4
+brain cancer,indication,recall_at_k,100,0.0,1.0,4
+fibromyalgia,indication,recall_at_k,100,0.0,0.6,4
+canker sore,indication,recall_at_k,100,0.0,0.75,4
+pityriasis versicolor,indication,recall_at_k,100,0.2,0.8666666666666667,4
+Plasmodium ovale malaria,indication,recall_at_k,100,0.0,1.0,4
+galactosemia,indication,recall_at_k,100,0.0,1.0,4
+rhinoscleroma,indication,recall_at_k,100,0.10526315789473684,0.631578947368421,4
+yaws,indication,recall_at_k,100,0.47058823529411764,1.0,4
+prostatitis (disease),indication,recall_at_k,100,0.16666666666666666,0.3333333333333333,4
+clear cell renal carcinoma,indication,recall_at_k,100,0.09090909090909091,1.0,4
+multidrug-resistant tuberculosis,indication,recall_at_k,100,0.0,0.0,4
+lichen disease,indication,recall_at_k,100,0.0,0.9473684210526315,4
+islet cell adenomatosis,indication,recall_at_k,100,0.0,1.0,4
+epicondylitis,indication,recall_at_k,100,0.0,1.0,4
+temporal arteritis,indication,recall_at_k,100,0.0,0.6666666666666666,4
+obsolete contact dermatitis caused by poison oak,indication,recall_at_k,100,0.0,0.0,4
+cyanide poisoning,indication,recall_at_k,100,0.0,0.0,4
+Q fever,indication,recall_at_k,100,0.0,1.0,4
+systemic mastocytosis,indication,recall_at_k,100,0.0,1.0,4
+desmoplastic small round cell tumor,indication,recall_at_k,100,0.25,1.0,4
+keloid formation,indication,recall_at_k,100,0.0,1.0,4
+epiglottitis,indication,recall_at_k,100,0.0,0.0,4
+paracoccidioidomycosis,indication,recall_at_k,100,0.0,1.0,4
+colorectal cancer,indication,recall_at_k,100,0.0,1.0,4
+infectious meningitis,indication,recall_at_k,100,0.0,1.0,4
+arachnoiditis,indication,recall_at_k,100,0.0,1.0,4
+severe early-childhood-onset retinal dystrophy,indication,recall_at_k,100,0.0,1.0,4
+Epstein-Barr virus-positive diffuse large B-cell lymphoma of the elderly,indication,recall_at_k,100,0.0,1.0,4
+AH amyloidosis,indication,recall_at_k,100,0.6666666666666666,1.0,4
+diphtheria,indication,recall_at_k,100,0.3333333333333333,1.0,4
+lung abscess (disease),indication,recall_at_k,100,0.3333333333333333,1.0,4
+arthritic joint disease,indication,recall_at_k,100,0.0,1.0,4
+primary motor cortex epilepsy,indication,recall_at_k,100,0.0,1.0,4
+rhabdomyosarcoma (disease),indication,recall_at_k,100,0.0,1.0,4
+Wilms tumor,indication,recall_at_k,100,0.3333333333333333,1.0,4
+lymphangioma,indication,recall_at_k,100,1.0,1.0,4
+hyperaldosteronism,indication,recall_at_k,100,0.0,1.0,4
+Waterhouse-Friderichsen syndrome,indication,recall_at_k,100,0.0,0.0,4
+"influenza, severe, susceptibility to",indication,recall_at_k,100,0.0,0.8888888888888888,4
+Chagas disease,indication,recall_at_k,100,0.0,0.5,4
+Scheie syndrome,indication,recall_at_k,100,1.0,1.0,4
+antisocial personality disorder,indication,recall_at_k,100,0.0,1.0,4
+idiopathic hypereosinophilic syndrome,indication,recall_at_k,100,0.0,1.0,4
+autism susceptibility 1,indication,recall_at_k,100,0.0,0.0,4
+X-linked parkinsonism-spasticity syndrome,contraindication,recall_at_k,100,1.0,1.0,5
+drug-induced dyskinesia,contraindication,recall_at_k,100,0.1111111111111111,0.6666666666666666,5
+"COPD, severe early onset",contraindication,recall_at_k,100,0.04411764705882353,0.75,5
+epidermodysplasia verruciformis,contraindication,recall_at_k,100,0.0,1.0,5
+isolated congenital growth hormone deficiency,contraindication,recall_at_k,100,0.45714285714285713,1.0,5
+Sheehan syndrome,contraindication,recall_at_k,100,0.42857142857142855,0.7714285714285715,5
+postmenopausal osteoporosis,contraindication,recall_at_k,100,0.061224489795918366,0.24489795918367346,5
+systemic lupus erythematosus (disease),contraindication,recall_at_k,100,0.05813953488372093,0.10465116279069768,5
+pediatric systemic lupus erythematosus,contraindication,recall_at_k,100,0.06976744186046512,0.13953488372093023,5
+localized pagetoid reticulosis,contraindication,recall_at_k,100,0.5,1.0,5
+sarcoidosis,contraindication,recall_at_k,100,0.0,0.09259259259259259,5
+diabetic nephropathy,contraindication,recall_at_k,100,0.0,0.5,5
+acute liver failure,contraindication,recall_at_k,100,0.0,0.25,5
+blood coagulation disease,contraindication,recall_at_k,100,0.041379310344827586,0.19310344827586207,5
+Wilson disease,contraindication,recall_at_k,100,0.13793103448275862,0.10344827586206896,5
+malignant non-dysgerminomatous germ cell tumor of ovary,contraindication,recall_at_k,100,0.038461538461538464,1.0,5
+maligant granulosa cell tumor of ovary,contraindication,recall_at_k,100,0.0,1.0,5
+myocardial infarction,contraindication,recall_at_k,100,0.04672897196261682,0.4439252336448598,5
+Gilbert syndrome,contraindication,recall_at_k,100,0.019230769230769232,0.19230769230769232,5
+impaired renal function disease,contraindication,recall_at_k,100,0.015748031496062992,0.1889763779527559,5
+type 2 diabetes mellitus,contraindication,recall_at_k,100,0.05,0.1,5
+heart conduction disease,contraindication,recall_at_k,100,0.027906976744186046,0.19534883720930232,5
+encephalomyelitis,contraindication,recall_at_k,100,0.0,1.0,5
+headache disorder,contraindication,recall_at_k,100,0.0,1.0,5
+end stage renal failure,contraindication,recall_at_k,100,0.1875,0.8541666666666666,5
+intracerebral hemorrhage,contraindication,recall_at_k,100,0.038461538461538464,0.5769230769230769,5
+Glanzmann thrombasthenia,contraindication,recall_at_k,100,0.0,0.875,5
+Prinzmetal angina,contraindication,recall_at_k,100,0.0,0.5833333333333334,5
+familial myoclonic epilepsy,contraindication,recall_at_k,100,1.0,1.0,5
+muscular dystrophy,contraindication,recall_at_k,100,0.14285714285714285,0.7142857142857143,5
+dental fluorosis,contraindication,recall_at_k,100,0.0,0.5714285714285714,5
+alcohol withdrawal,contraindication,recall_at_k,100,0.16666666666666666,0.5,5
+duodenal obstruction,contraindication,recall_at_k,100,0.0,1.0,5
+ocular tuberculosis,contraindication,recall_at_k,100,0.0,0.9375,5
+intraoperative floppy iris syndrome,contraindication,recall_at_k,100,0.07692307692307693,0.0,5
+pericardial effusion (disease),contraindication,recall_at_k,100,0.0,1.0,5
+amenorrhea (disease),contraindication,recall_at_k,100,0.0,1.0,5
+liver cancer,contraindication,recall_at_k,100,0.047619047619047616,1.0,5
+androgen insensitivity syndrome,contraindication,recall_at_k,100,0.0,0.0,5
+progressive multifocal leukoencephalopathy,contraindication,recall_at_k,100,0.2,0.8,5
+urethritis (disease),contraindication,recall_at_k,100,0.0,0.0,5
+familial mitral valve prolapse,contraindication,recall_at_k,100,0.0,0.0,5
+urolithiasis,contraindication,recall_at_k,100,0.0,0.0,5
+pleomorphic xanthoastrocytoma,contraindication,recall_at_k,100,0.0,1.0,5
+oligodendroglial tumor,contraindication,recall_at_k,100,0.0,1.0,5
+ariboflavinosis,contraindication,recall_at_k,100,0.0,0.5,5
+gestational diabetes,contraindication,recall_at_k,100,0.0,1.0,5
+Fanconi renotubular syndrome,contraindication,recall_at_k,100,0.0,0.14285714285714285,5
+hepatic vein thrombosis,contraindication,recall_at_k,100,0.0,0.0,5
+myositis,contraindication,recall_at_k,100,0.1111111111111111,0.6666666666666666,5
+facioscapulohumeral muscular dystrophy,contraindication,recall_at_k,100,1.0,1.0,5
+distal myopathy with anterior tibial onset,contraindication,recall_at_k,100,1.0,1.0,5
+autosomal recessive distal myopathy,contraindication,recall_at_k,100,1.0,1.0,5
+symptomatic form of hemophilia in female carriers,contraindication,recall_at_k,100,0.0,0.0,5
+C-cell hyperplasia,contraindication,recall_at_k,100,0.0,1.0,5
+blackwater fever,contraindication,recall_at_k,100,0.0,0.0,5
+X-linked parkinsonism-spasticity syndrome,indication,recall_at_k,100,0.5454545454545454,1.0,5
+"COPD, severe early onset",indication,recall_at_k,100,0.8571428571428571,0.7142857142857143,5
+epidermodysplasia verruciformis,indication,recall_at_k,100,0.0,1.0,5
+keratoacanthoma,indication,recall_at_k,100,0.0,1.0,5
+isolated congenital growth hormone deficiency,indication,recall_at_k,100,0.0,1.0,5
+Sheehan syndrome,indication,recall_at_k,100,0.0,1.0,5
+acute lymphoblastic/lymphocytic leukemia,indication,recall_at_k,100,0.030303030303030304,1.0,5
+postmenopausal osteoporosis,indication,recall_at_k,100,0.09375,0.96875,5
+systemic lupus erythematosus (disease),indication,recall_at_k,100,0.0,0.9230769230769231,5
+pediatric systemic lupus erythematosus,indication,recall_at_k,100,0.0,0.9230769230769231,5
+Trichinella spiralis infectious disease,indication,recall_at_k,100,0.0,1.0,5
+localized pagetoid reticulosis,indication,recall_at_k,100,0.0,1.0,5
+erythema multiforme,indication,recall_at_k,100,0.0,1.0,5
+Hodgkins lymphoma,indication,recall_at_k,100,0.14285714285714285,1.0,5
+classic Hodgkin lymphoma,indication,recall_at_k,100,0.14285714285714285,1.0,5
+sarcoidosis,indication,recall_at_k,100,0.0,1.0,5
+diabetic nephropathy,indication,recall_at_k,100,0.0,1.0,5
+malignant non-dysgerminomatous germ cell tumor of ovary,indication,recall_at_k,100,0.06666666666666667,1.0,5
+maligant granulosa cell tumor of ovary,indication,recall_at_k,100,0.06666666666666667,1.0,5
+myocardial infarction,indication,recall_at_k,100,0.1111111111111111,1.0,5
+astrocytoma (excluding glioblastoma),indication,recall_at_k,100,0.0,1.0,5
+type 2 diabetes mellitus,indication,recall_at_k,100,0.12244897959183673,0.2857142857142857,5
+Lennox-Gastaut syndrome,indication,recall_at_k,100,0.0,1.0,5
+amoebiasis due to Entamoeba histolytica,indication,recall_at_k,100,0.0,0.8571428571428571,5
+liver cancer,indication,recall_at_k,100,0.0,1.0,5
+"chronic myelogenous leukemia, BCR-ABL1 positive",indication,recall_at_k,100,0.0,0.6,5
+rhinitis,indication,recall_at_k,100,0.0,0.625,5
+headache disorder,indication,recall_at_k,100,0.058823529411764705,0.5294117647058824,5
+juvenile idiopathic arthritis,indication,recall_at_k,100,0.04,1.0,5
+autosomal recessive familial Mediterranean fever,indication,recall_at_k,100,0.0,1.0,5
+arthropathy,indication,recall_at_k,100,0.16129032258064516,0.5806451612903226,5
+Prinzmetal angina,indication,recall_at_k,100,0.0,0.8,5
+muscular dystrophy,indication,recall_at_k,100,0.75,1.0,5
+staphylococcal scarlet fever,indication,recall_at_k,100,0.0,1.0,5
+smallpox,indication,recall_at_k,100,0.0,1.0,5
+Legionnaires' disease,indication,recall_at_k,100,0.0,1.0,5
+alcohol withdrawal,indication,recall_at_k,100,0.0,0.6666666666666666,5
+lupus erythematosus,indication,recall_at_k,100,0.0,0.8,5
+congenital isolated hyperinsulinism,indication,recall_at_k,100,0.0,1.0,5
+urethritis (disease),indication,recall_at_k,100,0.0,0.8333333333333334,5
+multifocal atrial tachycardia (disease),indication,recall_at_k,100,0.0,0.5,5
+acute diarrhea,indication,recall_at_k,100,1.0,0.0,5
+amenorrhea (disease),indication,recall_at_k,100,0.0,0.5,5
+sinusitis,indication,recall_at_k,100,0.07142857142857142,0.8571428571428571,5
+Wilson disease,indication,recall_at_k,100,0.0,0.6666666666666666,5
+androgen insensitivity syndrome,indication,recall_at_k,100,0.0,1.0,5
+pleomorphic xanthoastrocytoma,indication,recall_at_k,100,0.0,1.0,5
+oligodendroglial tumor,indication,recall_at_k,100,0.0,1.0,5
+bullous impetigo,indication,recall_at_k,100,0.0,0.6666666666666666,5
+ophthalmia neonatorum,indication,recall_at_k,100,0.2,0.8,5
+Treponema infectious disease,indication,recall_at_k,100,0.0,1.0,5
+mixed anxiety and depressive disorder,indication,recall_at_k,100,0.0,0.6,5
+narcolepsy without cataplexy,indication,recall_at_k,100,0.5,1.0,5
+rheumatologic disorder,indication,recall_at_k,100,0.0,1.0,5
+glomus tumor,indication,recall_at_k,100,1.0,0.0,5
+fallopian tube carcinoma,indication,recall_at_k,100,0.0,1.0,5
+symptomatic form of hemophilia in female carriers,indication,recall_at_k,100,0.8571428571428571,0.7142857142857143,5
+myositis,indication,recall_at_k,100,0.0,0.0,5
+antisocial personality disorder,indication,recall_at_k,100,0.0,1.0,5
+congenital generalized lipodystrophy,indication,recall_at_k,100,1.0,1.0,5
+transitional cell carcinoma,indication,recall_at_k,100,0.0,1.0,5
+tuberous sclerosis,indication,recall_at_k,100,0.0,1.0,5
+epithelioid sarcoma,indication,recall_at_k,100,0.0,1.0,5
+Wolman disease,indication,recall_at_k,100,0.0,1.0,5
+lysosomal acid lipase deficiency,indication,recall_at_k,100,0.0,1.0,5
+mast cell leukemia,indication,recall_at_k,100,0.0,1.0,5
+aleukemic mast cell leukemia,indication,recall_at_k,100,0.0,1.0,5
+Glanzmann thrombasthenia,indication,recall_at_k,100,0.0,1.0,5

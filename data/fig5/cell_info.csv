@@ -1,0 +1,83 @@
+cell_id,cell_type,base_cell_id,precursor_cell_id,modification,sample_type,primary_site,subtype,original_growth_pattern,provider_catalog_id,original_source_vendor,donor_age,donor_sex,donor_ethnicity,description,type_site
+A375,cell line,A375,-666,-666,tumor,skin,malignant melanoma,adherent,CRL-1619,ATCC,54,F,-666,Malignant melanoma skin tumor cell line.,tumor_skin
+A549,cell line,A549,-666,-666,tumor,lung,non small cell lung cancer| carcinoma,adherent,CCL-185,ATCC,58,M,Caucasian,Non-small cell lung cancer carcinoma in the lung.,tumor_lung
+A673,cell line,A673,-666,-666,tumor,bone,ewing's sarcoma,adherent,CRL-1598,ATCC,-666,F,-666,Ewing's sarcoma bone tumor cell line.,tumor_bone
+AGS,cell line,AGS,-666,-666,tumor,stomach,adenocarcinoma,adherent,CRL-1739,ATCC,54,F,Caucasian,Stomach adenocarcinoma tumor cell line.,tumor_stomach
+BT20,cell line,BT20,-666,-666,tumor,breast,carcinoma,adherent,HTB-19,ATCC,74,F,Caucasian,Breast carcinoma cell line derived from a tumor.,tumor_breast
+CL34,cell line,CL34,-666,-666,tumor,large intestine,colorectal adenocarcinoma,adherent,-666,DSMZ,-666,F,-666,Tumor cell line derived from colorectal adenocarcinoma of the large intestine.,tumor_large_intestine
+CORL23,cell line,CORL23,-666,-666,tumor,lung,non small cell lung cancer| large cell carcinoma,adherent,92031919,ECACC,-666,M,-666,Non-small cell lung cancer line.,tumor_lung
+COV644,cell line,COV644,-666,-666,tumor,ovary,carcinoma| epithelial-mucinous,adherent,-666,ECACC,-666,F,-666,Epithelial mucinous carcinoma of the ovary.,tumor_gynecologic
+DV90,cell line,DV90,-666,-666,tumor,lung,non small cell lung cancer| adenocarcinoma,adherent,-666,DSMZ,-666,M,-666,Non small cell lung cancer adenocarcinoma cell line from the lung tumor.,tumor_lung
+EFO27,cell line,EFO27,-666,-666,tumor,ovary,mucinous papillary adenocarcinoma,adherent,-666,DSMZ,-666,F,-666,Ovarian tumor cell line from mucinous papillary adenocarcinoma.,tumor_gynecologic
+H1299,cell line,H1299,-666,-666,-666,lung,carcinoma,adherent,-666,-666,-666,-666,-666,Lung carcinoma cell line.,tumor_lung
+HA1E,cell line,HA1E,-666,immortalized normal,normal,kidney,normal kidney,adherent,-666,-666,-666,-666,-666,The cell line is an immortalized normal kidney cell line.,normal_kidney
+HCC15,cell line,HCC15,-666,-666,tumor,lung,non small cell lung cancer| squamous cell carcinoma,adherent,-666,DSMZ,-666,M,-666,Squamous cell carcinoma cell line derived from non-small cell lung cancer.,tumor_lung
+HCC515,cell line,HCC515,-666,-666,normal,lung,carcinoma,adherent,-666,-666,-666,-666,-666,Normal lung carcinoma cell line.,tumor_lung
+HCT116,cell line,HCT116,-666,-666,tumor,large intestine,colorectal carcinoma,adherent,CCL-247,ATCC,-666,M,-666,Colorectal carcinoma cell line derived from a tumor in the large intestine.,tumor_large_intestine
+HEC108,cell line,HEC108,-666,-666,tumor,endometrium,endometrial adenocarcinoma,adherent,-666,HSRRB,-666,F,-666,Endometrial adenocarcinoma tumor cell line.,tumor_gynecologic
+HEK293T,cell line,HEK293T,-666,immortalized normal,normal,kidney,embryonal kidney,adherent,-666,-666,-666,-666,-666,The cell line is an immortalized normal embryonal kidney line.,normal_kidney
+HELA,cell line,HELA,-666,-666,tumor,large intestine,adenocarcinoma,adherent,CCL-2,ATCC,31,F,Black,Adenocarcinoma-derived tumor cell line from the large intestine.,tumor_large_intestine
+HEPG2,cell line,HEPG2,-666,-666,tumor,liver,hepatocellular carcinoma,adherent,HB-8065,ATCC,15,M,Caucasian,Liver hepatocellular carcinoma cell line derived from a tumor.,tumor_liver
+HL60,cell line,HL60,-666,-666,tumor,haematopoietic and lymphoid tissue,acute myelogenous leukemia (AML)| M3 (promyelocytic),suspension,CCL-240,ATCC,36,F,Caucasian,Promyelocytic AML cell line derived from haematopoietic and lymphoid tissue.,tumor_haematopoietic
+HME1,cell line,HME1,-666,immortalized normal,normal,breast,-666,adherent,CRL-4010,-666,-666,M,-666,Immortalized normal breast cell line.,normal_breast
+HS27A,cell line,HS27A,-666,bone marrow cells that were immortalized,normal,bone,bone marrow,adherent,-666,-666,-666,-666,-666,Immortalized normal bone marrow cells.,normal_bone
+HS578T,cell line,HS578T,-666,-666,tumor,breast,carcinoma,adherent,HTB-126,ATCC,74,F,Caucasian,Breast carcinoma cell line.,tumor_breast
+HT115,cell line,HT115,-666,-666,tumor,large intestine,colorectal carcinoma,adherent,-666,ECACC,-666,-666,-666,Colorectal carcinoma cell line derived from a tumor in the large intestine.,tumor_large_intestine
+HT29,cell line,HT29,-666,-666,tumor,large intestine,colorectal adenocarcinoma,adherent,HTB-38,ATCC,44,F,Caucasian,A tumor-derived colorectal adenocarcinoma cell line from the large intestine.,tumor_large_intestine
+HUH7,cell line,HUH7,-666,-666,tumor,liver,hepatocellular carcinoma,adherent,-666,HSRRB,-666,M,-666,Hepatocellular carcinoma-derived liver tumor cell line.,tumor_liver
+HUVEC,cell line,HUVEC,-666,immortalized normal,normal,vascular system,normal endothelial cell|umbilical cord,adherent,IFO50271,JCRB,-666,-666,-666,Immortalized normal endothelial cells from the umbilical cord.,tumor_gynecologic
+JHUEM2,cell line,JHUEM2,-666,-666,tumor,endometrium,endometrial adenocarcinoma| endometrioid carcinoma,adherent,-666,RIKEN,-666,F,-666,Endometrial adenocarcinoma cell line derived from endometrium tumor.,tumor_gynecologic
+JURKAT,cell line,JURKAT,-666,-666,tumor,haematopoietic and lymphoid tissue,acute lymphoblastic leukemia (ALL)| T-cell,suspension,-666,DSMZ,-666,M,-666,"T-cell, acute lymphoblastic leukemia (ALL), haematopoietic and lymphoid tissue, tumor.",tumor_haematopoietic
+LNCAP,cell line,LNCAP,-666,-666,tumor,prostate,carcinoma| prostate,adherent,-666,DSMZ,50,M,-666,Prostate carcinoma cell line.,tumor_male_genital_tract
+LOVO,cell line,LOVO,-666,-666,tumor,large intestine,colorectal adenocarcinoma,adherent,CCL-229,ATCC,56,M,-666,Cell line derived from colorectal adenocarcinoma of the large intestine.,tumor_large_intestine
+MCF10A,cell line,MCF10A,-666,immortalized normal,normal,breast,epithelial,adherent,CRL-10317,ATCC,-666,-666,-666,Immortalized normal breast epithelial cell line.,normal_breast
+MCF7,cell line,MCF7,-666,-666,tumor,breast,adenocarcinoma,adherent,HTB-22,ATCC,69,F,Caucasian,Breast adenocarcinoma tumor cell line.,tumor_breast
+MCH58,cell line,MCH58,-666,immortalized normal,normal,skin,skin fibroblast,-666,-666,-666,-666,-666,-666,Immortalized normal skin fibroblast cell line.,normal_skin
+MDAMB231,cell line,MDAMB231,-666,-666,tumor,breast,adenocarcinoma,adherent,HTB-26,ATCC,51,F,Caucasian,Breast adenocarcinoma tumor cell line.,tumor_breast
+MDST8,cell line,MDST8,-666,-666,tumor,large intestine,colorectal carcinoma,adherent,-666,ECACC,-666,-666,-666,Colorectal carcinoma cell line derived from large intestine tumor.,tumor_large_intestine
+NCIH1694,cell line,NCIH1694,-666,-666,tumor,lung,small cell lung cancer| carcinoma,suspension,CRL-5888,ATCC,61,M,Caucasian,"A tumor cell line originating from small cell lung cancer in the lung.""",tumor_lung
+NCIH1836,cell line,NCIH1836,-666,-666,tumor,lung,small cell lung cancer| carcinoma,suspension,CRL-5898,ATCC,52,M,Caucasian,Small cell lung cancer line derived from lung tumor.,tumor_lung
+NCIH2073,cell line,NCIH2073,-666,-666,tumor,lung,non small cell lung cancer| adenocarcinoma,adherent,CRL-5918,ATCC,47,F,Caucasian,Non small cell lung cancer adenocarcinoma cell line from lung tumor.,tumor_lung
+NCIH508,cell line,NCIH508,-666,-666,tumor,large intestine,colorectal adenocarcinoma,mix,CCL-253,ATCC,55,M,Caucasian,Human cell line derived from colorectal adenocarcinoma in the large intestine.,tumor_large_intestine
+NCIH596,cell line,NCIH596,-666,-666,tumor,lung,non small cell lung cancer| adenosquamous carcinoma,adherent,HTB-178,ATCC,73,M,Caucasian,Non small cell lung cancer cell line from adenosquamous carcinoma of the lung.,tumor_lung
+NKDBA,cell line,NKDBA,-666,hTERT-immortalized normal kidney cells immunoselected for DBA-positivity,normal,kidney,kidney epithelial,-666,-666,-666,-666,M,-666,hTERT-immortalized kidney epithelial cells immunoselected for DBA-positivity.,normal_kidney
+NOMO1,cell line,NOMO1,-666,-666,tumor,haematopoietic and lymphoid tissue,acute myeloid leukemia (AML),suspension,-666,HSRRB,-666,F,-666,AML-derived cell line from haematopoietic and lymphoid tissue.,tumor_haematopoietic
+OV7,cell line,OV7,-666,-666,tumor,ovary,carcinoma,adherent,-666,ECACC,-666,F,-666,Ovarian carcinoma cell line.,tumor_gynecologic
+PC3,cell line,PC3,-666,-666,tumor,prostate,adenocarcinoma,mix,CRL-1435,ATCC,62,M,Caucasian,Prostate adenocarcinoma tumor cell line.,tumor_male_genital_tract
+PL21,cell line,PL21,-666,-666,tumor,haematopoietic and lymphoid tissue,acute myelogenous leukemia| promyelocytic,suspension,-666,DSMZ,-666,M,-666,Promyelocytic acute myelogenous leukemia cell line from haematopoietic and lymphoid tissue.,tumor_haematopoietic
+RKO,cell line,RKO,-666,-666,tumor,large intestine,colorectal carcinoma,adherent,-666,ATCC,-666,-666,-666,Human colorectal carcinoma cell line derived from a large intestine tumor.,tumor_large_intestine
+RMGI,cell line,RMGI,-666,-666,tumor,ovary,carcinoma| clear cell,adherent,-666,HSRRB,-666,F,-666,Clear cell carcinoma of the ovary cell line.,tumor_gynecologic
+RMUGS,cell line,RMUGS,-666,-666,tumor,ovary,carcinoma,adherent,-666,HSRRB,-666,F,-666,Ovary carcinoma tumor cell line.,tumor_gynecologic
+SKBR3,cell line,SKBR3,-666,-666,tumor,breast,adenocarcinoma,adherent,HTB-30,ATCC,43,F,Caucasian,Tumor-derived breast adenocarcinoma cell line.,tumor_breast
+SKLU1,cell line,SKLU1,-666,-666,tumor,lung,non small cell lung cancer| adenocarcinoma,adherent,HTB-57,ATCC,60,F,Caucasian,Lung cancer cell line from non-small cell adenocarcinoma tumor.,tumor_lung
+SKM1,cell line,SKM1,-666,-666,tumor,haematopoietic and lymphoid tissue,acute myeloid leukemia (AML),suspension,-666,HSRRB,-666,M,-666,Acute Myeloid Leukemia (AML) cell line derived from haematopoietic and lymphoid tissues.,tumor_haematopoietic
+SKMEL1,cell line,SKMEL1,-666,-666,tumor,skin,malignant melanoma,suspension,HTB-67,ATCC,29,M,Caucasian,Malignant melanoma tumor cell line derived from human skin.,tumor_skin
+SKMEL28,cell line,SKMEL28,-666,-666,tumor,skin,malignant melanoma,adherent,HTB-72,ATCC,51,M,-666,The cell line is derived from a tumor of skin malignant melanoma.,tumor_skin
+SNGM,cell line,SNGM,-666,-666,tumor,endometrium,endometrial adenocarcinoma,adherent,-666,HSRRB,-666,F,-666,Endometrial adenocarcinoma cell line derived from endometrium tumor.,tumor_gynecologic
+SNU1040,cell line,SNU1040,-666,-666,tumor,large intestine,colorectal carcinoma,mix,-666,KCLB,-666,M,-666,Colorectal carcinoma cell line derived from a tumor of the large intestine.,tumor_large_intestine
+SNUC5,cell line,SNUC5,-666,-666,tumor,large intestine,colorectal adenocarcinoma,adherent,-666,KCLB,-666,F,-666,Colorectal adenocarcinoma cell line derived from a large intestine tumor.,tumor_large_intestine
+SW480,cell line,SW480,-666,-666,tumor,large intestine,colorectal adenocarcinoma,adherent,CCL-228,ATCC,50,M,Caucasian,The cell line originates from a colorectal adenocarcinoma tumor of the large intestine.,tumor_large_intestine
+SW620,cell line,SW620,-666,-666,tumor,large intestine,colorectal adenocarcinoma,adherent,CCL-227,ATCC,51,M,Caucasian,Colorectal adenocarcinoma cell line derived from a tumor in the large intestine.,tumor_large_intestine
+SW948,cell line,SW948,-666,-666,tumor,large intestine,colorectal adenocarcinoma,adherent,CCL-237,ATCC,81,F,Caucasian,Colorectal adenocarcinoma cell line derived from a large intestine tumor.,tumor_large_intestine
+T3M10,cell line,T3M10,-666,-666,tumor,lung,non small cell lung cancer| large cell carcinoma,adherent,-666,RIKEN,-666,M,-666,Non-small cell lung cancer cell line derived from large cell carcinoma.,tumor_lung
+THP1,cell line,THP1,-666,-666,tumor,haematopoietic and lymphoid tissue,acute myelogenous leukemia| M5 (monocytic),suspension,TIB-202,ATCC,1,M,-666,"Tumor-derived haematopoietic and lymphoid tissue cell line from acute myelogenous leukemia, specifically M5 (monocytic) subtype.",tumor_haematopoietic
+TYKNU,cell line,TYKNU,-666,-666,tumor,ovary,carcinoma| undifferentiated,adherent,-666,HSRRB,-666,F,-666,Undifferentiated carcinoma cell line from an ovarian tumor.,tumor_gynecologic
+U266,cell line,U266,-666,-666,tumor,blood,"myeloman, haematopoietic,lymphoid",mix,ACC9,DSMZ,-666,-666,-666,Blood-derived haematopoietic tumor cell line from myeloma.,tumor_haematopoietic
+U937,cell line,U937,-666,-666,tumor,haematopoietic and lymphoid tissue,lymphoma| B-cell| non-hodgkin's| histiocytic,suspension,CRL-1593.2,ATCC,37,M,Caucasian,Non-Hodgkin's B-cell lymphoma cell line originating from haematopoietic and lymphoid tissue.,tumor_haematopoietic
+VCAP,cell line,VCAP,-666,-666,tumor,prostate,carcinoma,adherent,-666,ATCC,-666,M,-666,Prostate carcinoma cell line derived from tumor.,tumor_male_genital_tract
+WSUDLCL2,cell line,WSUDLCL2,-666,-666,tumor,haematopoietic and lymphoid tissue,lymphoma| B-cell| non-hodgkin's| diffuse large cell,suspension,-666,DSMZ,-666,M,-666,B-cell lymphoma non-Hodgkin's diffuse large cell derived from haematopoietic and lymphoid tissue.,tumor_haematopoietic
+YAPC,cell line,YAPC,-666,-666,tumor,pancreas,pancreatic carcinoma,adherent,-666,DSMZ,-666,M,-666,Pancreatic carcinoma cell line derived from tumor tissue.,tumor_male_genital_tract
+MNEU.E,differentiated,MNEU,-666,differentiated from ESC to be motor neurons,normal,-666,-666,adherent,-666,Harvard University,-666,-666,-666,Differentiated from ESC to be motor neurons and normal.,normal_brain
+NEU,differentiated,NEU,-666,terminally differentiated to be neurons,normal,-666,-666,adherent,-666,-666,-666,-666,-666,Terminally differentiated to be normal neurons.,normal_brain
+NPC,differentiated,NPC,-666,"differentiated from iPSC, but not terminally differentiated",primary,central nervous system,normal stem fibroblast-derived iPScs,adherent,-666,-666,-666,-666,-666,"Differentiated from iPSC cells, this primary cell line is derived from normal stem fibroblast-induced pluripotent stem cells, associated with the central nervous system.",normal_brain
+NPC.CAS9,differentiated,NPC,NPC,NPC that were genetically modified to stably express Cas9 protein,primary,central nervous system,normal stem fibroblast-derived iPScs,adherent,-666,-666,-666,-666,-666,"Genetically modified NPCs express Cas9, derived from fibroblast iPScs, primary CNS origin.",normal_brain
+NPC.TAK,differentiated,NPC,NPC,"differentiated from iPSC, but not terminally differentiated",primary,central nervous system,normal stem fibroblast-derived iPScs,adherent,-666,-666,-666,-666,-666,"Stem cell line, differentiated from iPSCs derived from normal fibroblasts, central nervous system origin.",normal_brain
+HUES3,ESC,HUES3,-666,-666,normal,-666,-666,adherent,-666,-666,-666,-666,-666,The cell line is classified as normal.,normal
+FIBRNPC,iPSC,FIBRNPC,-666,-666,normal,skin,-666,adherent,-666,-666,-666,-666,-666,Normal skin cell line,normal_skin
+ASC,primary,ASC,-666,-666,primary,adipose,normal primary adipocyte stem cells,adherent,-666,-666,-666,-666,-666,Normal primary adipose-derived adipocyte stem cells.,normal_adipose
+ASC.C,primary,ASC,-666,-666,primary,adipose,normal primary adipocyte stem cells,adherent,HPA-v,Sciencell,-666,-666,-666,Normal primary adipocyte stem cells derived from adipose tissue.,normal_adipose
+CD34,primary,CD34,-666,-666,normal,bone,bone marrow,suspension,-666,-666,-666,-666,-666,Normal bone marrow cell line.,normal_bone
+PHH,primary,PHH,-666,-666,primary,liver,normal primary liver,-666,-666,CellzDirect,-666,-666,-666,Normal primary liver cell line.,normal_liver
+SKB,primary,SKB,-666,-666,normal,muscle,myoblast,-666,CC-2580,Lonza,-666,-666,-666,Myoblasts are normal muscle precursor cells.,normal_muscle
+SKL,primary,SKL,-666,-666,primary,muscle,normal primary skeletal muscle cells,adherent,CC-2561,LONZA,-666,-666,-666,Normal primary skeletal muscle cells.,normal_muscle
+SKL.C,primary,SKL,-666,-666,primary,muscle,normal primary skeletal muscle cells,adherent,CC-2561,LONZA,-666,-666,-666,Normal primary skeletal muscle cells.,normal_muscle
