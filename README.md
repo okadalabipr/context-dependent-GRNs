@@ -4,6 +4,7 @@
 This repository provides reproducible code for the study by Tsutsui M. et al. (2025), focused on constructing and analyzing context-aware gene regulatory networks (GRNs) derived from biomedical literature.
 
 <img width="4051" height="2094" alt="fig1" src="https://github.com/user-attachments/assets/784955ac-5f96-400a-8777-f63340b5ed24" />
+
 ---
 
 ## 📁 figures/
