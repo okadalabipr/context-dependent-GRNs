@@ -7,7 +7,7 @@ import numpy as np
 ### Load network (Context-independent)
 ####################
 # Load gene-gene interactions from BioREX database
-relations_df = pd.read_csv("/share/pubtator3/data/input/all_human_gene_interactions_2024-12-18.csv")
+relations_df = pd.read_csv("../data/fig2-3/all_human_gene_interactions_2024-12-18.csv")
 all_pairs = np.array(sorted(list(set(relations_df.apply(lambda x: "--".join(sorted([x["from_gene"], x["to_gene"]])), axis=1)))))
 print(relations_df.head())
 print(relations_df.shape)
