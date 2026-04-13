@@ -54,7 +54,7 @@ Due to storage constraints, large datasets are hosted on [Zenodo](https://doi.or
 ## 🤖 Mathematical Modeling with LLMs
 
 The automation of mathematical model generation (fig7) using LLMs is handled in a separate project:  
-👉 [BioMathForge](https://github.com/okada-lab/BioMathForge)
+👉 [BioMathForge](https://github.com/okadalabipr/BioMathForge)
 
 Please refer to that repository for installation instructions and usage details.
 
